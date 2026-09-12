@@ -1,0 +1,1 @@
+import{Vn as e,o as t}from"./button-DXzwc0dE.js";var n=e(`x`,[[`path`,{d:`M18 6 6 18`,key:`1bl5f8`}],[`path`,{d:`m6 6 12 12`,key:`d8bk6v`}]]);function r(e){return t(`dialog`,e)}export{n,r as t};
