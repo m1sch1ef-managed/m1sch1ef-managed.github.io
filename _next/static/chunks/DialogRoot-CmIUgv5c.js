@@ -1,0 +1,1 @@
+import{o as e}from"./button-BirlJz0A.js";function t(t){return e(`dialog`,t)}export{t};

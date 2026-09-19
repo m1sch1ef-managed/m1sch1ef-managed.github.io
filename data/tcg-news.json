@@ -1,0 +1,1392 @@
+{
+  "games": [
+    {
+      "id": "pokemon",
+      "name": "Pokémon",
+      "set": "Prismatic Evolutions"
+    },
+    {
+      "id": "magic",
+      "name": "Magic: The Gathering",
+      "set": "Foundations"
+    },
+    {
+      "id": "yugioh",
+      "name": "Yu-Gi-Oh!",
+      "set": "Quarter Century Bonanza"
+    },
+    {
+      "id": "onepiece",
+      "name": "One Piece",
+      "set": "Romance Dawn"
+    },
+    {
+      "id": "lorcana",
+      "name": "Disney Lorcana",
+      "set": "The First Chapter"
+    },
+    {
+      "id": "fab",
+      "name": "Flesh and Blood",
+      "set": "Welcome to Rathe"
+    }
+  ],
+  "stories": [
+    {
+      "game": "lorcana",
+      "title": "Attack of the Vine! Content Creator Set Championship: European Summit",
+      "url": "https://lorcanaplayer.com/attack-of-the-vine-content-creator-set-champs/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/06/15-P4-EN-13-Rapunzel-Escaping-the-Tower-Set-Championship-Participation-Promo-Lorcana-Player-286x400.jpg",
+      "date": "2026-09-09T19:40:11.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Disney Lorcana Challenge North America Championship 2026 – Results, Report + Decklists",
+      "url": "https://lorcanaplayer.com/north-america-championship-2026-results/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/09/Analyst-Desk.jpg",
+      "date": "2026-09-02T19:04:33.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Disney Lorcana Challenge 26/27 Revealed: Season of Villainy Prizing, Youth Division + Local Qualifiers",
+      "url": "https://lorcanaplayer.com/disney-lorcana-26-27-season-of-villainy-announced/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/08/28-C3-EN-15-Hades-Dark-Usurper-Challenge-Top-8-Serialized-LQ-Lorcana-Player-286x400.jpg",
+      "date": "2026-08-25T14:09:13.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Everything Revealed at D23 2026: Online Client, Collector Boosters, New Rarity, Challenge Details + Much More",
+      "url": "https://lorcanaplayer.com/lorcana-d23-2026-new-rarity-collector-boosters-challenge-season/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/08/Disney-Lorcana-Online-Client-900x506.jpg",
+      "date": "2026-08-25T14:09:11.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Disney Lorcana Challenge 26/27 Season Tracker",
+      "url": "https://lorcanaplayer.com/disney-lorcana-challenge-26-27-tracker/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/08/24-C3-EN-1-Mickey-Mouse-Brave-Little-Tailor-Local-Qualifier-Top-32-Promo-LQ-Lorcana-Player-286x400.jpg",
+      "date": "2026-08-25T14:09:08.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "D23 2026 Collection At Retail, Lorebook Promo Card Revealed, Season of Villainy Prizing + More",
+      "url": "https://lorcanaplayer.com/d23-2026-collection-retail-season-of-villainy/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/08/Disney-Lorcana-D23-2026-Collection-Disneyland-Paris.jpg",
+      "date": "2026-08-10T12:58:25.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Hyperia City Card List – Every Card From Lorcana Set 14",
+      "url": "https://lorcanaplayer.com/hyperia-city-card-list-lorcana-set-14/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/07/Disney-Lorcana-Hyperia-City-Booster-Box-Lorcana-Player-400x400.jpg",
+      "date": "2026-07-15T14:14:58.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "New D23 2026 Collection Pre-Sale Launched + Exclusive D23 Bundle",
+      "url": "https://lorcanaplayer.com/d23-2026-collection-d23-show-bundle-presale/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/07/Disney-Lorcana-D23-2026-Collection-Lorcana-Player-400x400.jpg",
+      "date": "2026-07-14T21:11:21.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "“Attack of the Vine!” Reveals, New Mechanics, Set 15 Teaser + More",
+      "url": "https://lorcanaplayer.com/attack-of-the-vine-reveals-mechanics-set-15/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/06/Disney-Lorcana-Attack-of-the-Vine-Prerelease-Box-Lorcana-Player-400x400.jpg",
+      "date": "2026-06-23T19:00:11.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Exclusive New Curator’s Collection: Heroines Edition Coming To Select Disney Locations",
+      "url": "https://lorcanaplayer.com/curators-collection-heroines-edition-revealed/",
+      "image": "https://lorcanaplayer.com/wp-content/uploads/2026/06/1-CC1-EN-1-Ariel-Spectacular-Singer-Curators-Collection-Lorcana-Player-286x400.jpg",
+      "date": "2026-06-18T19:59:44.000Z",
+      "publisher": "Lorcana Player",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "\"Several pallets\" of Pokemon 30th Celebration seemingly stolen in Delaware van heist",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-van-heist",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-truck-heist.jpg",
+      "date": "2026-09-18T11:04:26.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Pokémon TCG 30th Celebration's precise pull rates and patterns mapped out by a stats nerd on DAY ONE",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-pull-rates",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-pikachus.jpg",
+      "date": "2026-09-17T11:58:42.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "The holy grail of Pokémon TCG's 30th Celebration set is a $20k deep fried Mew we didn't think was real",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-RGB-mew",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-tcg-30th-celebration-RGB-mew-real.jpg",
+      "date": "2026-09-16T11:25:02.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "This Jigglypuff reprint from the Pokémon TCG's 30th Celebration set shows how much the game has changed over time",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/erika-jigglypuff-30th-celebration",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Jigglypuff-Thumbnail.jpg",
+      "date": "2026-09-13T20:48:09.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "I'm Hyped for the Pokémon TCG's 30th Celebration set, I just wish it was bigger",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/missing-pokemon-30th-celebration",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/30th-Celebration-Missing-Cards-Thumbnail.jpg",
+      "date": "2026-09-12T18:43:44.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "5 iconic Pokémon card reprints in 30th Celebration's Classic Collection",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-classic-collection",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-classic-cards.jpg",
+      "date": "2026-09-11T14:51:08.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "The 10 biggest chase cards in Pokémon TCG 30th celebration",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-chase-cards",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-chase-cards.jpg",
+      "date": "2026-09-10T10:31:29.000Z",
+      "publisher": "Wargamer",
+      "market": true
+    },
+    {
+      "game": "pokemon",
+      "title": "Top 50+ most expensive rare Pokémon cards of all time",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/rare-pokemon-cards",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2024/05/rare-and-most-expensive-pokemon-cards.jpg",
+      "date": "2026-09-08T16:07:24.000Z",
+      "publisher": "Wargamer",
+      "market": true
+    },
+    {
+      "game": "pokemon",
+      "title": "Insanely adorable Pikachu in a poncho Pokémon card sells for $16,000",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/pikachu-in-a-poncho",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pikachu-in-a-poncho-208.jpg",
+      "date": "2026-09-07T14:14:30.000Z",
+      "publisher": "Wargamer",
+      "market": true
+    },
+    {
+      "game": "pokemon",
+      "title": "The Pokémon TCG is receiving a new slew of Mega Attack Rares",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/new-mega-attack-rares",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Mega-Attack-Rare-Thumbnail.jpg",
+      "date": "2026-09-06T11:38:10.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Mega Lucario Z is set to make its Pokémon TCG debut",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/mega-lucario-z",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Lucario-Z-Thumbnail.jpg",
+      "date": "2026-09-05T16:49:31.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Foundations Commander Decklists",
+      "url": "https://www.mtggoldfish.com/articles/foundations-commander-decklists",
+      "image": null,
+      "date": "2026-09-18T21:55:51.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Reality Fracture Spoilers — September 17-18 | Full Gallery",
+      "url": "https://www.mtggoldfish.com/articles/reality-fracture-spoilers-september-17-18-full-gallery",
+      "image": null,
+      "date": "2026-09-18T15:19:17.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Much Abrew: I Make My Creatures Massive...And Then Kill Them (Standard)",
+      "url": "https://www.mtggoldfish.com/articles/much-abrew-i-make-my-creatures-massive-and-then-kill-them-standard",
+      "image": null,
+      "date": "2026-09-18T15:00:13.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "The Power of Pauper: Zeta in Paper",
+      "url": "https://www.mtggoldfish.com/articles/the-power-of-pauper-zeta-in-paper",
+      "image": null,
+      "date": "2026-09-18T15:00:04.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Can 3 Budget Decks Beat a CEDH Deck? | Commander Clash S20 E18",
+      "url": "https://www.mtggoldfish.com/articles/can-3-budget-decks-beat-a-cedh-deck-commander-clash-s20-e18",
+      "image": null,
+      "date": "2026-09-18T15:00:00.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Single Scoop: If it Works in Modern, Can It Work in Pioneer?",
+      "url": "https://www.mtggoldfish.com/articles/single-scoop-if-it-works-in-modern-can-it-work-in-pioneer",
+      "image": null,
+      "date": "2026-09-17T15:00:04.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Vintage 101: Defiler of Chaos",
+      "url": "https://www.mtggoldfish.com/articles/vintage-101-defiler-of-chaos",
+      "image": null,
+      "date": "2026-09-17T15:00:03.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Reality Fracture Commander Decklist",
+      "url": "https://www.mtggoldfish.com/articles/reality-fracture-commander-decklist",
+      "image": null,
+      "date": "2026-09-16T17:35:11.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Reality Fracture Spoilers — September 16 | Jace, Jace and Commander Precon",
+      "url": "https://www.mtggoldfish.com/articles/reality-fracture-spoilers-september-16-jace-jace-and-commander-precon",
+      "image": null,
+      "date": "2026-09-16T17:28:08.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "This Week in Legacy: Into the Sewers We Will Go",
+      "url": "https://www.mtggoldfish.com/articles/this-week-in-legacy-into-the-sewers-we-will-go",
+      "image": null,
+      "date": "2026-09-16T15:00:02.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Against the Odds: 60 Equipment (Brawl)",
+      "url": "https://www.mtggoldfish.com/articles/against-the-odds-60-equipment-brawl",
+      "image": null,
+      "date": "2026-09-16T15:00:02.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Reality Fracture Spoilers — September 15 | Planeswalkers Living at Zero Loyalty?",
+      "url": "https://www.mtggoldfish.com/articles/reality-fracture-spoilers-september-15-planeswalkers-living-at-zero-loyalty",
+      "image": null,
+      "date": "2026-09-15T17:46:11.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[Chronicles] Sinful Spoils ep. 2 Teaser & Ref Arts",
+      "url": "https://ygorganization.com/chronicles-sinful-spoils-ep-2-teaser-ref-arts",
+      "image": null,
+      "date": "2026-09-19T05:52:08.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "“Harpie Regina Splendid Armor” Reprint [RD/CA01]",
+      "url": "https://ygorganization.com/harpiereginasplendidarmorca01reprint",
+      "image": null,
+      "date": "2026-09-18T22:12:13.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Crusadia 2026 with Sacred Beast & Kaiju, ft. BETB Support [CDP]",
+      "url": "https://ygorganization.com/cdp_giveequimaxalevel10swordormaybe3",
+      "image": null,
+      "date": "2026-09-18T14:02:28.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[MERCHANDISE] DMM Factory Rainbow Dragon Statue",
+      "url": "https://ygorganization.com/theyreallybespoilingseason3oftheremaster",
+      "image": null,
+      "date": "2026-09-18T12:11:59.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Vote for your Favorite Chapter of the Original Manga!",
+      "url": "https://ygorganization.com/yugiohmangasurvey",
+      "image": null,
+      "date": "2026-09-18T07:32:19.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[MERCHANDISE] KC Store 5th Anniversary Special Project Part 1",
+      "url": "https://ygorganization.com/happybirthdaymisterkaiba",
+      "image": null,
+      "date": "2026-09-17T23:58:18.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "“Duel Academia Official Tracksuit Jacket” from COSPA [Merchandise]",
+      "url": "https://ygorganization.com/duel-academia-official-tracksuit-jacket-from-cospa-merchandise",
+      "image": null,
+      "date": "2026-09-17T20:01:31.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Field Center Card & Playmat for Beyond the Brave Premiere! Event [TCG]",
+      "url": "https://ygorganization.com/field-center-card-playmat-for-beyond-the-brave-premiere-event-tcg",
+      "image": null,
+      "date": "2026-09-17T19:44:52.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Highlights from the “Yu-Gi-Oh! Tag Force GX” Famitsu Interview",
+      "url": "https://ygorganization.com/highlights-from-the-yu-gi-oh-tag-force-gx-famitsu-interview",
+      "image": null,
+      "date": "2026-09-17T19:25:27.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "“White Crow” Story [Lore]",
+      "url": "https://ygorganization.com/whitecrowpalooza",
+      "image": null,
+      "date": "2026-09-17T08:55:57.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Yu-Gi-Oh! Duel Monsters 25th Anniversary Cafe (Resurrection Edition)",
+      "url": "https://ygorganization.com/yu-gi-oh-duel-monsters-25th-anniversary-cafe-resurrection-edition",
+      "image": null,
+      "date": "2026-09-17T07:09:09.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Tag Force GX News Annoucement & Token Cards",
+      "url": "https://ygorganization.com/tag-force-gx-news-annoucement-token-cards",
+      "image": null,
+      "date": "2026-09-16T21:04:20.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Set Sail Deck Set [SD-01]",
+      "url": "https://onepiece.gg/set-sail-deck-set-sd-01/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Set Sail Deck Set [SD-01] has been updated.",
+      "url": "https://onepiece.gg/set-sail-deck-set-sd-01-has-been-updated/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Mini Case Set -Luffy/Shanks/Hancock- [TS-03] has been announced.",
+      "url": "https://onepiece.gg/mini-case-set-luffy-shanks-hancock-ts-03-has-been-announced/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Mastering Regulatory Compliance in the Gaming Sector",
+      "url": "https://onepiece.gg/mastering-regulatory-compliance-in-the-gaming-sector/",
+      "image": null,
+      "date": "2026-09-14T15:57:11.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Learned Experience Or Digital Tools – What’s The Best Way To Gain Poker Gaming Expertise?",
+      "url": "https://onepiece.gg/learned-experience-or-digital-tools-whats-the-best-way-to-gain-poker-gaming-expertise/",
+      "image": "https://onepiece.gg/wp-content/uploads/sites/28/2026/09/image-4.webp",
+      "date": "2026-09-14T09:56:24.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Why Opening Booster Packs Feels Like Gambling (And What the Odds Really Are)",
+      "url": "https://onepiece.gg/why-opening-booster-packs-feels-like-gambling-and-what-the-odds-really-are/",
+      "image": "https://onepiece.gg/wp-content/uploads/sites/28/2026/09/Picture1.webp",
+      "date": "2026-09-12T14:08:04.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "BANDAI CARD GAMES Fest feat. ONE PIECE CARD GAME DALLAS has been updated.",
+      "url": "https://onepiece.gg/bandai-card-games-fest-feat-one-piece-card-game-dallas-has-been-updated/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-11T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]  has been updated.",
+      "url": "https://onepiece.gg/booster-pack-the-worlds-strongest-warriors-op-17-has-been-updated-3/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-11T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "One Piece Fans Already Know the Gacha Isn’t the Whole Game",
+      "url": "https://onepiece.gg/one-piece-fans-already-know-the-gacha-isnt-the-whole-game/",
+      "image": null,
+      "date": "2026-09-10T15:25:19.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Official Playmat – Flame-Flame Fruit Coliseum Edition",
+      "url": "https://onepiece.gg/official-playmat-flame-flame-fruit-coliseum-edition/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-04T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "September 2026 Banned Announcement",
+      "url": "https://fabtcg.gg/september-2026-banned-announcement/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/09/SAGE-Benched_Sept26-1-1536x864-1-1024x576.webp",
+      "date": "2026-09-18T18:39:35.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Kansas City Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-kansas-city-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/09/Screenshot-2026-09-01-185110-1024x576.webp",
+      "date": "2026-09-04T13:13:56.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Mastery Pack Assassin Announced",
+      "url": "https://fabtcg.gg/mastery-pack-assassin-announced/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/08/MPA022-1024x472.webp",
+      "date": "2026-08-14T15:22:38.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Battle Grounds London Wrap Up",
+      "url": "https://fabtcg.gg/battle-grounds-london-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/08/Screenshot-2026-08-11-161415.webp",
+      "date": "2026-08-13T11:20:19.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Edinburgh Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-edinburgh-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/Screenshot-2026-07-28-165507-1024x576.webp",
+      "date": "2026-07-28T18:54:33.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Pro Tour Vegas Wrap Up",
+      "url": "https://fabtcg.gg/pro-tour-vegas-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/image_2026-07-19_154007165-1024x576.webp",
+      "date": "2026-07-21T16:44:08.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Best FaB Decks: Classic Constructed Meta Tier List",
+      "url": "https://fabtcg.gg/classic-constructed-meta-tier-list/",
+      "image": null,
+      "date": "2026-07-18T13:29:59.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Best FaB Decks: Silver Age Meta Tier List",
+      "url": "https://fabtcg.gg/best-fab-decks-silver-age-meta-tier-list/",
+      "image": null,
+      "date": "2026-07-18T13:29:57.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Pro Tour Vegas Keynote Wrap Up",
+      "url": "https://fabtcg.gg/pro-tour-vegas-keynote-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/image_2026-07-17_175304090-1024x576.webp",
+      "date": "2026-07-17T22:18:05.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Shinkjuku Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-shinkjuku-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/Screenshot-2026-07-12-134746-1024x576.webp",
+      "date": "2026-07-14T21:41:42.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    }
+  ],
+  "cards": [
+    {
+      "id": "610516-Holofoil",
+      "productId": 610516,
+      "name": "Umbreon ex - 161/131",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610516/pokemon-sv-prismatic-evolutions-umbreon-ex-161-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-15",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-17",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1410.28
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610516_200w.jpg"
+    },
+    {
+      "id": "610511-Holofoil",
+      "productId": 610511,
+      "name": "Sylveon ex - 156/131",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610511/pokemon-sv-prismatic-evolutions-sylveon-ex-156-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 531.65
+        },
+        {
+          "date": "2026-09-13",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-14",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-15",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-16",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-17",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-18",
+          "price": 533.18
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610511_200w.jpg"
+    },
+    {
+      "id": "610499-Holofoil",
+      "productId": 610499,
+      "name": "Leafeon ex - 144/131",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610499/pokemon-sv-prismatic-evolutions-leafeon-ex-144-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-13",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-14",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-15",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-16",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-17",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-18",
+          "price": 334.14
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610499_200w.jpg"
+    },
+    {
+      "id": "591814-Foil",
+      "productId": 591814,
+      "name": "Llanowar Elves (Showcase) (Fracture Foil)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591814/magic-foundations-llanowar-elves-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-13",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-14",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-15",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-16",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-17",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-18",
+          "price": 887.32
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591814_200w.jpg"
+    },
+    {
+      "id": "591766-Foil",
+      "productId": 591766,
+      "name": "Doubling Season (Showcase) (Fracture Foil)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591766/magic-foundations-doubling-season-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 656.43
+        },
+        {
+          "date": "2026-09-13",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-14",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-15",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-16",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-17",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-18",
+          "price": 663.52
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591766_200w.jpg"
+    },
+    {
+      "id": "591844-Foil",
+      "productId": 591844,
+      "name": "Twinflame Tyrant (Showcase) (Fracture Foil)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591844/magic-foundations-twinflame-tyrant-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-13",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-14",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-15",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-16",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-17",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-18",
+          "price": 472.72
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591844_200w.jpg"
+    },
+    {
+      "id": "592725-1st Edition",
+      "productId": 592725,
+      "name": "Blue-Eyes White Dragon (Quarter Century Secret Rare)",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592725/yugioh-quarter-century-bonanza-blue-eyes-white-dragon-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 181.23
+        },
+        {
+          "date": "2026-09-13",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-14",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-15",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-16",
+          "price": 186.64
+        },
+        {
+          "date": "2026-09-17",
+          "price": 186.64
+        },
+        {
+          "date": "2026-09-18",
+          "price": 186.64
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592725_200w.jpg"
+    },
+    {
+      "id": "592813-1st Edition",
+      "productId": 592813,
+      "name": "Dark Magician Girl (Quarter Century Secret Rare) (A)",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592813/yugioh-quarter-century-bonanza-dark-magician-girl-quarter-century-secret-rare-a",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-13",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-14",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-15",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-16",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-17",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-18",
+          "price": 135.97
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592813_200w.jpg"
+    },
+    {
+      "id": "592831-1st Edition",
+      "productId": 592831,
+      "name": "Black Luster Soldier - Envoy of the Beginning (Quarter Century Secret Rare)",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592831/yugioh-quarter-century-bonanza-black-luster-soldier-envoy-of-the-beginning-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-13",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-14",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-15",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-16",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-17",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-18",
+          "price": 134.69
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592831_200w.jpg"
+    },
+    {
+      "id": "454666-Foil",
+      "productId": 454666,
+      "name": "Shanks (Parallel) (Manga) (Alternate Art)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454666/one-piece-card-game-romance-dawn-shanks-parallel-manga-alternate-art",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-13",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-14",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-15",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-16",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-17",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-18",
+          "price": 3999.47
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454666_200w.jpg"
+    },
+    {
+      "id": "453506-Foil",
+      "productId": 453506,
+      "name": "Monkey.D.Luffy (003) (Parallel)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453506/one-piece-card-game-romance-dawn-monkeydluffy-003-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-13",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-14",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-15",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-16",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-17",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-18",
+          "price": 999.52
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453506_200w.jpg"
+    },
+    {
+      "id": "454513-Foil",
+      "productId": 454513,
+      "name": "Roronoa Zoro (001) (Parallel)",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454513/one-piece-card-game-romance-dawn-roronoa-zoro-001-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-13",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-14",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-15",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-16",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-17",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-18",
+          "price": 616.85
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454513_200w.jpg"
+    },
+    {
+      "id": "510153-Holofoil",
+      "productId": 510153,
+      "name": "Elsa - Spirit of Winter (Enchanted)",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510153/lorcana-tcg-the-first-chapter-elsa-spirit-of-winter-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-13",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-14",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-15",
+          "price": 949.08
+        },
+        {
+          "date": "2026-09-16",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-17",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-18",
+          "price": 950.96
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510153_200w.jpg"
+    },
+    {
+      "id": "510154-Holofoil",
+      "productId": 510154,
+      "name": "Mickey Mouse - Wayward Sorcerer (Enchanted)",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510154/lorcana-tcg-the-first-chapter-mickey-mouse-wayward-sorcerer-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 328.75
+        },
+        {
+          "date": "2026-09-13",
+          "price": 328.75
+        },
+        {
+          "date": "2026-09-14",
+          "price": 327.31
+        },
+        {
+          "date": "2026-09-15",
+          "price": 327.31
+        },
+        {
+          "date": "2026-09-16",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-17",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-18",
+          "price": 327.4
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510154_200w.jpg"
+    },
+    {
+      "id": "510152-Holofoil",
+      "productId": 510152,
+      "name": "Stitch - Carefree Surfer (Enchanted)",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510152/lorcana-tcg-the-first-chapter-stitch-carefree-surfer-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-13",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-14",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-15",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-16",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-17",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-18",
+          "price": 260.92
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510152_200w.jpg"
+    },
+    {
+      "id": "225110-1st Edition Cold Foil",
+      "productId": 225110,
+      "name": "Mask of Momentum",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225110/flesh-and-blood-tcg-welcome-to-rathe-mask-of-momentum",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-15",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-17",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1097
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225110_200w.jpg"
+    },
+    {
+      "id": "225065-1st Edition Rainbow Foil",
+      "productId": 225065,
+      "name": "Crippling Crush",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225065/flesh-and-blood-tcg-welcome-to-rathe-crippling-crush",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-13",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-14",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-15",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-16",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-17",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-18",
+          "price": 303.49
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225065_200w.jpg"
+    },
+    {
+      "id": "225118-1st Edition Rainbow Foil",
+      "productId": 225118,
+      "name": "Lord of Wind",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225118/flesh-and-blood-tcg-welcome-to-rathe-lord-of-wind",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-13",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-14",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-15",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-16",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-17",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-18",
+          "price": 274.5
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225118_200w.jpg"
+    }
+  ],
+  "sources": [
+    {
+      "game": "pokemon",
+      "publisher": "Wargamer",
+      "url": "https://www.wargamer.com/mainrss.xml",
+      "checkedAt": "2026-09-19T08:18:49.566Z",
+      "ok": true
+    },
+    {
+      "game": "magic",
+      "publisher": "MTGGoldfish",
+      "url": "https://www.mtggoldfish.com/feed",
+      "checkedAt": "2026-09-19T08:18:49.566Z",
+      "ok": true
+    },
+    {
+      "game": "yugioh",
+      "publisher": "YGOrganization",
+      "url": "https://ygorganization.com/feed/",
+      "checkedAt": "2026-09-19T08:18:49.566Z",
+      "ok": true
+    },
+    {
+      "game": "onepiece",
+      "publisher": "OnePiece.gg",
+      "url": "https://onepiece.gg/feed/",
+      "checkedAt": "2026-09-19T08:18:49.566Z",
+      "ok": true
+    },
+    {
+      "game": "lorcana",
+      "publisher": "Lorcana Player",
+      "url": "https://www.lorcanaplayer.com/feed/",
+      "checkedAt": "2026-09-12T23:41:16.752Z",
+      "ok": false,
+      "attemptedAt": "2026-09-19T08:18:49.566Z"
+    },
+    {
+      "game": "fab",
+      "publisher": "FaBTCG.gg",
+      "url": "https://fabtcg.gg/feed/",
+      "checkedAt": "2026-09-19T08:18:49.566Z",
+      "ok": true
+    }
+  ],
+  "pricesCheckedAt": "2026-09-19T08:18:49.566Z",
+  "pricesOk": true,
+  "priceSourceUpdatedAt": "2026-09-18T20:06:05.000Z",
+  "generatedAt": "2026-09-19T08:18:49.566Z"
+}
