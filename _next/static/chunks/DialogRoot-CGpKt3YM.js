@@ -1,0 +1,1 @@
+import{o as e}from"./button-Cm5TwvqW.js";function t(t){return e(`dialog`,t)}export{t};

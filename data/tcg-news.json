@@ -1,0 +1,6347 @@
+{
+  "games": [
+    {
+      "id": "pokemon",
+      "name": "Pokémon",
+      "set": "Prismatic Evolutions"
+    },
+    {
+      "id": "magic",
+      "name": "Magic: The Gathering",
+      "set": "Foundations"
+    },
+    {
+      "id": "yugioh",
+      "name": "Yu-Gi-Oh!",
+      "set": "Quarter Century Bonanza"
+    },
+    {
+      "id": "onepiece",
+      "name": "One Piece",
+      "set": "Romance Dawn"
+    },
+    {
+      "id": "lorcana",
+      "name": "Disney Lorcana",
+      "set": "The First Chapter"
+    },
+    {
+      "id": "fab",
+      "name": "Flesh and Blood",
+      "set": "Welcome to Rathe"
+    }
+  ],
+  "stories": [
+    {
+      "game": "pokemon",
+      "title": "Pikachu literally goes to space alongside a new selection of Pokémon TCG accessories",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/ESA-space-week-collab",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Space-Pikachu-Thumbnail.jpg",
+      "date": "2026-09-26T11:49:43.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Are Pokémon scalpers actually 'crashing out' over 30th Celebration?",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/scalpers-30th-celebration-raging",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/06/pokemon-trading-card-game-30th-anniversary-celebration-set-revealed.jpg",
+      "date": "2026-09-24T16:39:27.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Pokémon collector charged with using GPS to track delivery driver's car",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/gps-tracking",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-tcg-gps-tracker.jpg",
+      "date": "2026-09-23T16:49:16.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Ascended Heroes biggest Pokémon cards are crashing in price",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/gengar-tree-pikachu-dropping",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-tcg-gengar.jpg",
+      "date": "2026-09-22T16:33:33.000Z",
+      "publisher": "Wargamer",
+      "market": true
+    },
+    {
+      "game": "pokemon",
+      "title": "Typhoon rains off major Pokémon tournament",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/typhoon-cancels-tournament",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-tcg-pokemon-trading-card-game-typhoon-cancels-tournament.jpg",
+      "date": "2026-09-21T16:08:58.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "How to play Pokémon cards for beginners",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/how-to-play-pokemon-cards",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2025/11/how-to-play-pokemon-cards.jpg",
+      "date": "2026-09-21T14:37:53.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "This big buff bug is the least valuable reprint in the Pokémon TCG's Celebration Classic Collection",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/buzzwole-gx-reprint",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Buzzwole-Thumbnail.jpg",
+      "date": "2026-09-20T22:29:30.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Get ahold of some Bat Themed Pokémon TCG promos for Halloween",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/halloween-promo-zubat-golbat-crobat",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Crobat-Halloween-Thumbnail.jpg",
+      "date": "2026-09-19T10:18:05.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "\"Several pallets\" of Pokemon 30th Celebration seemingly stolen in Delaware van heist",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-van-heist",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-truck-heist.jpg",
+      "date": "2026-09-18T11:04:26.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "Pokémon TCG 30th Celebration's precise pull rates and patterns mapped out by a stats nerd on DAY ONE",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-pull-rates",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-30th-celebration-pikachus.jpg",
+      "date": "2026-09-17T11:58:42.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "The holy grail of Pokémon TCG's 30th Celebration set is a $20k deep fried Mew we didn't think was real",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/30th-celebration-RGB-mew",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/pokemon-tcg-30th-celebration-RGB-mew-real.jpg",
+      "date": "2026-09-16T11:25:02.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "pokemon",
+      "title": "This Jigglypuff reprint from the Pokémon TCG's 30th Celebration set shows how much the game has changed over time",
+      "url": "https://www.wargamer.com/pokemon-trading-card-game/erika-jigglypuff-30th-celebration",
+      "image": "https://www.wargamer.com/wp-content/sites/wargamer/2026/09/Jigglypuff-Thumbnail.jpg",
+      "date": "2026-09-13T20:48:09.000Z",
+      "publisher": "Wargamer",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "We Play Reality Fracture | Commander Clash S20 E19",
+      "url": "https://www.mtggoldfish.com/articles/we-play-reality-fracture-commander-clash-s20-e19",
+      "image": null,
+      "date": "2026-09-25T15:00:04.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "I Make Horrible Artifacts into Unhorrible Creatures | Budget Magic",
+      "url": "https://www.mtggoldfish.com/articles/i-make-horrible-artifacts-into-unhorrible-creatures-budget-magic",
+      "image": null,
+      "date": "2026-09-25T15:00:02.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Reality Fracture Precon Echoverse Mirror Match",
+      "url": "https://www.mtggoldfish.com/articles/reality-fracture-precon-echoverse-mirror-match",
+      "image": null,
+      "date": "2026-09-24T16:25:05.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Vintage 101: Five Decks to Consider for Eternal Weekend",
+      "url": "https://www.mtggoldfish.com/articles/vintage-101-five-decks-to-consider-for-eternal-weekend",
+      "image": null,
+      "date": "2026-09-24T15:00:02.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Single Scoop: I Miss My Faeries",
+      "url": "https://www.mtggoldfish.com/articles/single-scoop-i-miss-my-faeries",
+      "image": null,
+      "date": "2026-09-24T15:00:00.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "This Week in Legacy: Five Decks to Consider for Eternal Weekend",
+      "url": "https://www.mtggoldfish.com/articles/this-week-in-legacy-five-decks-to-consider-for-eternal-weekend",
+      "image": null,
+      "date": "2026-09-23T15:00:01.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Against the Odds: Training Arena Players to Never Attack Me (Standard)",
+      "url": "https://www.mtggoldfish.com/articles/against-the-odds-training-arena-players-to-never-attack-me-standard",
+      "image": null,
+      "date": "2026-09-23T15:00:01.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Commander Clash Podcast 270: The Most Annoying Commanders",
+      "url": "https://www.mtggoldfish.com/articles/commander-clash-podcast-270-the-most-annoying-commanders",
+      "image": null,
+      "date": "2026-09-22T15:00:03.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Single Scoop: Formats Are Only as Good as Their Mill Decks",
+      "url": "https://www.mtggoldfish.com/articles/single-scoop-formats-are-only-as-good-as-their-mill-decks",
+      "image": null,
+      "date": "2026-09-22T15:00:03.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Podcast 606: The Reality Fracture Cards that Actually Matter",
+      "url": "https://www.mtggoldfish.com/articles/podcast-606-the-reality-fracture-cards-that-actually-matter",
+      "image": null,
+      "date": "2026-09-21T20:06:55.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Ranking Every Reality Fracture Commander",
+      "url": "https://www.mtggoldfish.com/articles/ranking-every-reality-fracture-commander",
+      "image": null,
+      "date": "2026-09-21T19:23:03.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "magic",
+      "title": "Affinity (2004) vs. Jund (2009) | Best Standard Deck Ever Top 32",
+      "url": "https://www.mtggoldfish.com/articles/affinity-2004-vs-jund-2009-best-standard-deck-ever-top-32",
+      "image": null,
+      "date": "2026-09-21T15:00:00.000Z",
+      "publisher": "MTGGoldfish",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Don’t Look If You Respect “The Secret Crane Princess Who Returns A Favor”! [IMPH]",
+      "url": "https://ygorganization.com/pleasedontlook",
+      "image": null,
+      "date": "2026-09-26T12:24:14.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[Chronicles] Episode 2 Released",
+      "url": "https://ygorganization.com/chronicles-episode-2-released",
+      "image": null,
+      "date": "2026-09-26T03:48:28.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Trirealm Rift with Shining Sarcophagus, ft. DBGV Support [CDP]",
+      "url": "https://ygorganization.com/cdp_banishallthedeck",
+      "image": null,
+      "date": "2026-09-25T14:19:56.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Cumulative August-September Patch Notes for SimOrg – 2026-09-25 [SIMORG]",
+      "url": "https://ygorganization.com/simorg-changes-updates-2026-09-25",
+      "image": null,
+      "date": "2026-09-25T14:00:50.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Summon Forth Dragons with “Koumori Dragon the Magical Dragon”! [RD/CA01]",
+      "url": "https://ygorganization.com/thedevilofatlantis",
+      "image": null,
+      "date": "2026-09-25T10:40:47.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "OCG GENESYS Point List Adjustment: October 1st, 2026",
+      "url": "https://ygorganization.com/ocg-genesys-point-list-adjustment-october-1st-2026",
+      "image": null,
+      "date": "2026-09-25T06:32:03.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "Two More Reprints [RD/CA01]",
+      "url": "https://ygorganization.com/two-more-reprints-rd-ca01",
+      "image": null,
+      "date": "2026-09-24T12:43:13.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[Master Duel] F&L List Update and Card Decoder",
+      "url": "https://ygorganization.com/master-duel-fl-list-update-and-card-decoder",
+      "image": null,
+      "date": "2026-09-24T05:26:33.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[MERCHANDISE] Harpie Lady OSHI WORKS figure from Kotobukiya now available for preorder",
+      "url": "https://ygorganization.com/merchandise-harpie-lady-oshi-works-figure-from-kotobukiya-now-available-for-preorder",
+      "image": null,
+      "date": "2026-09-24T03:37:49.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[MW] The New Format Market Is Already In Effect",
+      "url": "https://ygorganization.com/mw-new-format-in-action",
+      "image": null,
+      "date": "2026-09-23T22:48:48.000Z",
+      "publisher": "YGOrganization",
+      "market": true
+    },
+    {
+      "game": "yugioh",
+      "title": "Glorious Victors Sample [Deck Recipes]",
+      "url": "https://ygorganization.com/glorious-victors-sample-deck-recipes",
+      "image": null,
+      "date": "2026-09-23T22:32:17.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "yugioh",
+      "title": "[MERCHANDISE] Sangan Giant Plush at New York Comic Con",
+      "url": "https://ygorganization.com/merchandise-sangan-giant-plush-at-new-york-comic-con",
+      "image": null,
+      "date": "2026-09-23T20:22:48.000Z",
+      "publisher": "YGOrganization",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18] has been announced.",
+      "url": "https://onepiece.gg/booster-pack-the-dominance-of-god-op-18-has-been-announced/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-25T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Set Sail Deck Set [SD-01]",
+      "url": "https://onepiece.gg/set-sail-deck-set-sd-01/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Set Sail Deck Set [SD-01] has been updated.",
+      "url": "https://onepiece.gg/set-sail-deck-set-sd-01-has-been-updated/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "onepiece",
+      "title": "Mini Case Set -Luffy/Shanks/Hancock- [TS-03] has been announced.",
+      "url": "https://onepiece.gg/mini-case-set-luffy-shanks-hancock-ts-03-has-been-announced/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/28/2026/07/onepiece-source-logo.webp",
+      "date": "2026-09-18T09:00:00.000Z",
+      "publisher": "OnePiece.gg",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "What Lorcana Collectors Can Learn From More Than 180 Pokémon Sets",
+      "url": "https://lorcana.gg/what-lorcana-collectors-can-learn-from-more-than-180-pokemon-sets/",
+      "image": null,
+      "date": "2026-09-24T16:37:45.000Z",
+      "publisher": "Lorcana.gg",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Disney Lorcana Trading Card Game Heads to Hyperia City",
+      "url": "https://lorcana.gg/disney-lorcana-trading-card-game-heads-to-hyperia-city/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/11/2026/07/lorcana-source-logo.webp",
+      "date": "2026-09-22T09:00:00.000Z",
+      "publisher": "Lorcana.gg",
+      "market": false
+    },
+    {
+      "game": "lorcana",
+      "title": "Europe Championship Recap",
+      "url": "https://lorcana.gg/europe-championship-recap/",
+      "image": "https://wp.dotgg.gg/wp-content/uploads/sites/11/2026/07/lorcana-source-logo.webp",
+      "date": "2026-09-17T09:00:00.000Z",
+      "publisher": "Lorcana.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "September 2026 Banned Announcement",
+      "url": "https://fabtcg.gg/september-2026-banned-announcement/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/09/SAGE-Benched_Sept26-1-1536x864-1-1024x576.webp",
+      "date": "2026-09-18T18:39:35.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Kansas City Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-kansas-city-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/09/Screenshot-2026-09-01-185110-1024x576.webp",
+      "date": "2026-09-04T13:13:56.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Mastery Pack Assassin Announced",
+      "url": "https://fabtcg.gg/mastery-pack-assassin-announced/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/08/MPA022-1024x472.webp",
+      "date": "2026-08-14T15:22:38.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Battle Grounds London Wrap Up",
+      "url": "https://fabtcg.gg/battle-grounds-london-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/08/Screenshot-2026-08-11-161415.webp",
+      "date": "2026-08-13T11:20:19.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Edinburgh Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-edinburgh-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/Screenshot-2026-07-28-165507-1024x576.webp",
+      "date": "2026-07-28T18:54:33.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Pro Tour Vegas Wrap Up",
+      "url": "https://fabtcg.gg/pro-tour-vegas-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/image_2026-07-19_154007165-1024x576.webp",
+      "date": "2026-07-21T16:44:08.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Best FaB Decks: Classic Constructed Meta Tier List",
+      "url": "https://fabtcg.gg/classic-constructed-meta-tier-list/",
+      "image": null,
+      "date": "2026-07-18T13:29:59.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Best FaB Decks: Silver Age Meta Tier List",
+      "url": "https://fabtcg.gg/best-fab-decks-silver-age-meta-tier-list/",
+      "image": null,
+      "date": "2026-07-18T13:29:57.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "Pro Tour Vegas Keynote Wrap Up",
+      "url": "https://fabtcg.gg/pro-tour-vegas-keynote-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/image_2026-07-17_175304090-1024x576.webp",
+      "date": "2026-07-17T22:18:05.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    },
+    {
+      "game": "fab",
+      "title": "World Tour Shinkjuku Wrap Up",
+      "url": "https://fabtcg.gg/world-tour-shinkjuku-wrap-up/",
+      "image": "https://fabtcg.gg/wp-content/uploads/sites/61/2026/07/Screenshot-2026-07-12-134746-1024x576.webp",
+      "date": "2026-07-14T21:41:42.000Z",
+      "publisher": "FaBTCG.gg",
+      "market": false
+    }
+  ],
+  "cards": [
+    {
+      "id": "610516-Holofoil",
+      "productId": 610516,
+      "name": "Umbreon ex - 161/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610516_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610516/pokemon-sv-prismatic-evolutions-umbreon-ex-161-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1423.3
+        },
+        {
+          "date": "2026-09-15",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-17",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1410.28
+        },
+        {
+          "date": "2026-09-19",
+          "price": 1412.72
+        },
+        {
+          "date": "2026-09-20",
+          "price": 1412.72
+        },
+        {
+          "date": "2026-09-21",
+          "price": 1412.72
+        },
+        {
+          "date": "2026-09-22",
+          "price": 1412.72
+        },
+        {
+          "date": "2026-09-23",
+          "price": 1382.48
+        },
+        {
+          "date": "2026-09-24",
+          "price": 1373.19
+        },
+        {
+          "date": "2026-09-25",
+          "price": 1384.05
+        }
+      ]
+    },
+    {
+      "id": "610511-Holofoil",
+      "productId": 610511,
+      "name": "Sylveon ex - 156/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610511_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610511/pokemon-sv-prismatic-evolutions-sylveon-ex-156-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 531.65
+        },
+        {
+          "date": "2026-09-13",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-14",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-15",
+          "price": 534.85
+        },
+        {
+          "date": "2026-09-16",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-17",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-18",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-19",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-20",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-21",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-22",
+          "price": 533.18
+        },
+        {
+          "date": "2026-09-23",
+          "price": 530.28
+        },
+        {
+          "date": "2026-09-24",
+          "price": 514.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 514.88
+        }
+      ]
+    },
+    {
+      "id": "610499-Holofoil",
+      "productId": 610499,
+      "name": "Leafeon ex - 144/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610499_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610499/pokemon-sv-prismatic-evolutions-leafeon-ex-144-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-13",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-14",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-15",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-16",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-17",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-18",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-19",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-20",
+          "price": 334.14
+        },
+        {
+          "date": "2026-09-21",
+          "price": 334.83
+        },
+        {
+          "date": "2026-09-22",
+          "price": 334.83
+        },
+        {
+          "date": "2026-09-23",
+          "price": 333.47
+        },
+        {
+          "date": "2026-09-24",
+          "price": 333.47
+        },
+        {
+          "date": "2026-09-25",
+          "price": 333.47
+        }
+      ]
+    },
+    {
+      "id": "610510-Holofoil",
+      "productId": 610510,
+      "name": "Espeon ex - 155/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610510_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610510/pokemon-sv-prismatic-evolutions-espeon-ex-155-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 314.38
+        },
+        {
+          "date": "2026-09-23",
+          "price": 314.38
+        },
+        {
+          "date": "2026-09-24",
+          "price": 314.38
+        },
+        {
+          "date": "2026-09-25",
+          "price": 313.06
+        }
+      ]
+    },
+    {
+      "id": "610504-Holofoil",
+      "productId": 610504,
+      "name": "Vaporeon ex - 149/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610504_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610504/pokemon-sv-prismatic-evolutions-vaporeon-ex-149-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 285.43
+        },
+        {
+          "date": "2026-09-23",
+          "price": 284.11
+        },
+        {
+          "date": "2026-09-24",
+          "price": 284.11
+        },
+        {
+          "date": "2026-09-25",
+          "price": 284.11
+        }
+      ]
+    },
+    {
+      "id": "610505-Holofoil",
+      "productId": 610505,
+      "name": "Glaceon ex - 150/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610505_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610505/pokemon-sv-prismatic-evolutions-glaceon-ex-150-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 273.7
+        },
+        {
+          "date": "2026-09-23",
+          "price": 273.7
+        },
+        {
+          "date": "2026-09-24",
+          "price": 273.7
+        },
+        {
+          "date": "2026-09-25",
+          "price": 273.7
+        }
+      ]
+    },
+    {
+      "id": "610501-Holofoil",
+      "productId": 610501,
+      "name": "Flareon ex - 146/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610501_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610501/pokemon-sv-prismatic-evolutions-flareon-ex-146-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 206.16
+        },
+        {
+          "date": "2026-09-23",
+          "price": 206.16
+        },
+        {
+          "date": "2026-09-24",
+          "price": 206.16
+        },
+        {
+          "date": "2026-09-25",
+          "price": 207.97
+        }
+      ]
+    },
+    {
+      "id": "610508-Holofoil",
+      "productId": 610508,
+      "name": "Jolteon ex - 153/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610508_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610508/pokemon-sv-prismatic-evolutions-jolteon-ex-153-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 195.21
+        },
+        {
+          "date": "2026-09-23",
+          "price": 195.21
+        },
+        {
+          "date": "2026-09-24",
+          "price": 195.21
+        },
+        {
+          "date": "2026-09-25",
+          "price": 194.94
+        }
+      ]
+    },
+    {
+      "id": "610522-Holofoil",
+      "productId": 610522,
+      "name": "Eevee ex - 167/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610522_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610522/pokemon-sv-prismatic-evolutions-eevee-ex-167-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 176.86
+        },
+        {
+          "date": "2026-09-23",
+          "price": 176.86
+        },
+        {
+          "date": "2026-09-24",
+          "price": 176.86
+        },
+        {
+          "date": "2026-09-25",
+          "price": 176.86
+        }
+      ]
+    },
+    {
+      "id": "610517-Holofoil",
+      "productId": 610517,
+      "name": "Roaring Moon ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610517_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610517/pokemon-sv-prismatic-evolutions-roaring-moon-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 166.43
+        },
+        {
+          "date": "2026-09-23",
+          "price": 166.43
+        },
+        {
+          "date": "2026-09-24",
+          "price": 166.43
+        },
+        {
+          "date": "2026-09-25",
+          "price": 166.44
+        }
+      ]
+    },
+    {
+      "id": "610520-Holofoil",
+      "productId": 610520,
+      "name": "Dragapult ex - 165/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610520_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610520/pokemon-sv-prismatic-evolutions-dragapult-ex-165-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 104.17
+        },
+        {
+          "date": "2026-09-23",
+          "price": 104.13
+        },
+        {
+          "date": "2026-09-24",
+          "price": 104.09
+        },
+        {
+          "date": "2026-09-25",
+          "price": 104.09
+        }
+      ]
+    },
+    {
+      "id": "610502-Holofoil",
+      "productId": 610502,
+      "name": "Ceruledge ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610502_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610502/pokemon-sv-prismatic-evolutions-ceruledge-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 101.09
+        },
+        {
+          "date": "2026-09-23",
+          "price": 100.74
+        },
+        {
+          "date": "2026-09-24",
+          "price": 100.6
+        },
+        {
+          "date": "2026-09-25",
+          "price": 100.42
+        }
+      ]
+    },
+    {
+      "id": "610679-Holofoil",
+      "productId": 610679,
+      "name": "Umbreon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610679_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610679/pokemon-sv-prismatic-evolutions-umbreon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 74.89
+        },
+        {
+          "date": "2026-09-23",
+          "price": 73.07
+        },
+        {
+          "date": "2026-09-24",
+          "price": 72.09
+        },
+        {
+          "date": "2026-09-25",
+          "price": 70.52
+        }
+      ]
+    },
+    {
+      "id": "610521-Holofoil",
+      "productId": 610521,
+      "name": "Raging Bolt ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610521_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610521/pokemon-sv-prismatic-evolutions-raging-bolt-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 66.68
+        },
+        {
+          "date": "2026-09-23",
+          "price": 66.68
+        },
+        {
+          "date": "2026-09-24",
+          "price": 66.68
+        },
+        {
+          "date": "2026-09-25",
+          "price": 66.68
+        }
+      ]
+    },
+    {
+      "id": "610534-Holofoil",
+      "productId": 610534,
+      "name": "Pikachu ex - 179/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610534_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610534/pokemon-sv-prismatic-evolutions-pikachu-ex-179-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 61.42
+        },
+        {
+          "date": "2026-09-23",
+          "price": 61.51
+        },
+        {
+          "date": "2026-09-24",
+          "price": 61.51
+        },
+        {
+          "date": "2026-09-25",
+          "price": 61.51
+        }
+      ]
+    },
+    {
+      "id": "610523-Holofoil",
+      "productId": 610523,
+      "name": "Bloodmoon Ursaluna ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610523_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610523/pokemon-sv-prismatic-evolutions-bloodmoon-ursaluna-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 59.84
+        },
+        {
+          "date": "2026-09-23",
+          "price": 59.84
+        },
+        {
+          "date": "2026-09-24",
+          "price": 59.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 59.64
+        }
+      ]
+    },
+    {
+      "id": "610512-Holofoil",
+      "productId": 610512,
+      "name": "Iron Valiant ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610512_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610512/pokemon-sv-prismatic-evolutions-iron-valiant-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 52.51
+        },
+        {
+          "date": "2026-09-23",
+          "price": 52.54
+        },
+        {
+          "date": "2026-09-24",
+          "price": 52.62
+        },
+        {
+          "date": "2026-09-25",
+          "price": 52.42
+        }
+      ]
+    },
+    {
+      "id": "610519-Holofoil",
+      "productId": 610519,
+      "name": "Gholdengo ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610519_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610519/pokemon-sv-prismatic-evolutions-gholdengo-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 49.6
+        },
+        {
+          "date": "2026-09-23",
+          "price": 49.31
+        },
+        {
+          "date": "2026-09-24",
+          "price": 49.31
+        },
+        {
+          "date": "2026-09-25",
+          "price": 49.31
+        }
+      ]
+    },
+    {
+      "id": "610506-Holofoil",
+      "productId": 610506,
+      "name": "Palafin ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610506_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610506/pokemon-sv-prismatic-evolutions-palafin-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 41.74
+        },
+        {
+          "date": "2026-09-23",
+          "price": 41.62
+        },
+        {
+          "date": "2026-09-24",
+          "price": 41.67
+        },
+        {
+          "date": "2026-09-25",
+          "price": 41.59
+        }
+      ]
+    },
+    {
+      "id": "610653-Holofoil",
+      "productId": 610653,
+      "name": "Vaporeon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610653_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610653/pokemon-sv-prismatic-evolutions-vaporeon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 39.15
+        },
+        {
+          "date": "2026-09-23",
+          "price": 39.02
+        },
+        {
+          "date": "2026-09-24",
+          "price": 39.02
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.02
+        }
+      ]
+    },
+    {
+      "id": "610513-Holofoil",
+      "productId": 610513,
+      "name": "Iron Crown ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610513_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610513/pokemon-sv-prismatic-evolutions-iron-crown-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 34.31
+        },
+        {
+          "date": "2026-09-23",
+          "price": 34.04
+        },
+        {
+          "date": "2026-09-24",
+          "price": 34.04
+        },
+        {
+          "date": "2026-09-25",
+          "price": 34.09
+        }
+      ]
+    },
+    {
+      "id": "610664-Holofoil",
+      "productId": 610664,
+      "name": "Sylveon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610664_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610664/pokemon-sv-prismatic-evolutions-sylveon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 33.51
+        },
+        {
+          "date": "2026-09-23",
+          "price": 33.51
+        },
+        {
+          "date": "2026-09-24",
+          "price": 33.45
+        },
+        {
+          "date": "2026-09-25",
+          "price": 33.17
+        }
+      ]
+    },
+    {
+      "id": "610524-Holofoil",
+      "productId": 610524,
+      "name": "Terapagos ex - 169/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610524_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610524/pokemon-sv-prismatic-evolutions-terapagos-ex-169-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 31.52
+        },
+        {
+          "date": "2026-09-23",
+          "price": 31.22
+        },
+        {
+          "date": "2026-09-24",
+          "price": 31.22
+        },
+        {
+          "date": "2026-09-25",
+          "price": 31.22
+        }
+      ]
+    },
+    {
+      "id": "610656-Holofoil",
+      "productId": 610656,
+      "name": "Jolteon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610656_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610656/pokemon-sv-prismatic-evolutions-jolteon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 31.3
+        },
+        {
+          "date": "2026-09-23",
+          "price": 31.05
+        },
+        {
+          "date": "2026-09-24",
+          "price": 31.05
+        },
+        {
+          "date": "2026-09-25",
+          "price": 30.18
+        }
+      ]
+    },
+    {
+      "id": "610658-Holofoil",
+      "productId": 610658,
+      "name": "Espeon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610658_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610658/pokemon-sv-prismatic-evolutions-espeon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 29.24
+        },
+        {
+          "date": "2026-09-23",
+          "price": 29
+        },
+        {
+          "date": "2026-09-24",
+          "price": 29.02
+        },
+        {
+          "date": "2026-09-25",
+          "price": 28.51
+        }
+      ]
+    },
+    {
+      "id": "610518-Holofoil",
+      "productId": 610518,
+      "name": "Pecharunt ex",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610518_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610518/pokemon-sv-prismatic-evolutions-pecharunt-ex",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 29.04
+        },
+        {
+          "date": "2026-09-23",
+          "price": 28.89
+        },
+        {
+          "date": "2026-09-24",
+          "price": 28.49
+        },
+        {
+          "date": "2026-09-25",
+          "price": 28.54
+        }
+      ]
+    },
+    {
+      "id": "610509-Holofoil",
+      "productId": 610509,
+      "name": "Iron Hands ex - 154/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610509_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610509/pokemon-sv-prismatic-evolutions-iron-hands-ex-154-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 29.02
+        },
+        {
+          "date": "2026-09-23",
+          "price": 28.76
+        },
+        {
+          "date": "2026-09-24",
+          "price": 28.4
+        },
+        {
+          "date": "2026-09-25",
+          "price": 28.11
+        }
+      ]
+    },
+    {
+      "id": "610641-Holofoil",
+      "productId": 610641,
+      "name": "Leafeon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610641_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610641/pokemon-sv-prismatic-evolutions-leafeon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 28.67
+        },
+        {
+          "date": "2026-09-23",
+          "price": 28.16
+        },
+        {
+          "date": "2026-09-24",
+          "price": 28.16
+        },
+        {
+          "date": "2026-09-25",
+          "price": 28.04
+        }
+      ]
+    },
+    {
+      "id": "610646-Holofoil",
+      "productId": 610646,
+      "name": "Flareon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610646_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610646/pokemon-sv-prismatic-evolutions-flareon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 28.54
+        },
+        {
+          "date": "2026-09-23",
+          "price": 28.18
+        },
+        {
+          "date": "2026-09-24",
+          "price": 27.96
+        },
+        {
+          "date": "2026-09-25",
+          "price": 27.64
+        }
+      ]
+    },
+    {
+      "id": "610655-Holofoil",
+      "productId": 610655,
+      "name": "Glaceon (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610655_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610655/pokemon-sv-prismatic-evolutions-glaceon-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 26.97
+        },
+        {
+          "date": "2026-09-23",
+          "price": 26.76
+        },
+        {
+          "date": "2026-09-24",
+          "price": 26.47
+        },
+        {
+          "date": "2026-09-25",
+          "price": 26.45
+        }
+      ]
+    },
+    {
+      "id": "610526-Holofoil",
+      "productId": 610526,
+      "name": "Crispin - 171/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610526_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610526/pokemon-sv-prismatic-evolutions-crispin-171-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 26.34
+        },
+        {
+          "date": "2026-09-23",
+          "price": 26
+        },
+        {
+          "date": "2026-09-24",
+          "price": 26.02
+        },
+        {
+          "date": "2026-09-25",
+          "price": 25.79
+        }
+      ]
+    },
+    {
+      "id": "610530-Holofoil",
+      "productId": 610530,
+      "name": "Lacey - 175/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610530_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610530/pokemon-sv-prismatic-evolutions-lacey-175-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 24.48
+        },
+        {
+          "date": "2026-09-23",
+          "price": 24.12
+        },
+        {
+          "date": "2026-09-24",
+          "price": 24.16
+        },
+        {
+          "date": "2026-09-25",
+          "price": 24.09
+        }
+      ]
+    },
+    {
+      "id": "610514-Holofoil",
+      "productId": 610514,
+      "name": "Sandy Shocks ex - 159/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610514_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610514/pokemon-sv-prismatic-evolutions-sandy-shocks-ex-159-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 24.42
+        },
+        {
+          "date": "2026-09-23",
+          "price": 24.27
+        },
+        {
+          "date": "2026-09-24",
+          "price": 24.27
+        },
+        {
+          "date": "2026-09-25",
+          "price": 24.27
+        }
+      ]
+    },
+    {
+      "id": "610528-Holofoil",
+      "productId": 610528,
+      "name": "Janine's Secret Art - 173/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610528_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610528/pokemon-sv-prismatic-evolutions-janines-secret-art-173-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 23.65
+        },
+        {
+          "date": "2026-09-23",
+          "price": 23.2
+        },
+        {
+          "date": "2026-09-24",
+          "price": 23.53
+        },
+        {
+          "date": "2026-09-25",
+          "price": 23.67
+        }
+      ]
+    },
+    {
+      "id": "610500-Holofoil",
+      "productId": 610500,
+      "name": "Teal Mask Ogerpon ex - 145/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610500_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610500/pokemon-sv-prismatic-evolutions-teal-mask-ogerpon-ex-145-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 19.76
+        },
+        {
+          "date": "2026-09-23",
+          "price": 19.69
+        },
+        {
+          "date": "2026-09-24",
+          "price": 19.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 19.53
+        }
+      ]
+    },
+    {
+      "id": "610695-Holofoil",
+      "productId": 610695,
+      "name": "Dudunsparce (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610695_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610695/pokemon-sv-prismatic-evolutions-dudunsparce-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 19.61
+        },
+        {
+          "date": "2026-09-23",
+          "price": 19.27
+        },
+        {
+          "date": "2026-09-24",
+          "price": 19.23
+        },
+        {
+          "date": "2026-09-25",
+          "price": 19.02
+        }
+      ]
+    },
+    {
+      "id": "610529-Holofoil",
+      "productId": 610529,
+      "name": "Kieran - 174/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610529_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610529/pokemon-sv-prismatic-evolutions-kieran-174-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 19.58
+        },
+        {
+          "date": "2026-09-23",
+          "price": 19.51
+        },
+        {
+          "date": "2026-09-24",
+          "price": 19.51
+        },
+        {
+          "date": "2026-09-25",
+          "price": 19.51
+        }
+      ]
+    },
+    {
+      "id": "610507-Holofoil",
+      "productId": 610507,
+      "name": "Wellspring Mask Ogerpon ex - 152/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610507_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610507/pokemon-sv-prismatic-evolutions-wellspring-mask-ogerpon-ex-152-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 17.49
+        },
+        {
+          "date": "2026-09-23",
+          "price": 17.82
+        },
+        {
+          "date": "2026-09-24",
+          "price": 17.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 17.94
+        }
+      ]
+    },
+    {
+      "id": "610673-Holofoil",
+      "productId": 610673,
+      "name": "Riolu (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610673_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610673/pokemon-sv-prismatic-evolutions-riolu-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 17.38
+        },
+        {
+          "date": "2026-09-23",
+          "price": 17.37
+        },
+        {
+          "date": "2026-09-24",
+          "price": 17.41
+        },
+        {
+          "date": "2026-09-25",
+          "price": 17.38
+        }
+      ]
+    },
+    {
+      "id": "610503-Holofoil",
+      "productId": 610503,
+      "name": "Hearthflame Mask Ogerpon ex - 148/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610503_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610503/pokemon-sv-prismatic-evolutions-hearthflame-mask-ogerpon-ex-148-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 17.27
+        },
+        {
+          "date": "2026-09-23",
+          "price": 17.15
+        },
+        {
+          "date": "2026-09-24",
+          "price": 17.19
+        },
+        {
+          "date": "2026-09-25",
+          "price": 17.21
+        }
+      ]
+    },
+    {
+      "id": "610691-Holofoil",
+      "productId": 610691,
+      "name": "Eevee (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610691_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610691/pokemon-sv-prismatic-evolutions-eevee-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 16.23
+        },
+        {
+          "date": "2026-09-23",
+          "price": 15.46
+        },
+        {
+          "date": "2026-09-24",
+          "price": 15.46
+        },
+        {
+          "date": "2026-09-25",
+          "price": 15.01
+        }
+      ]
+    },
+    {
+      "id": "610515-Holofoil",
+      "productId": 610515,
+      "name": "Cornerstone Mask Ogerpon ex - 160/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610515_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610515/pokemon-sv-prismatic-evolutions-cornerstone-mask-ogerpon-ex-160-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 14.2
+        },
+        {
+          "date": "2026-09-23",
+          "price": 14.19
+        },
+        {
+          "date": "2026-09-24",
+          "price": 14.21
+        },
+        {
+          "date": "2026-09-25",
+          "price": 14.11
+        }
+      ]
+    },
+    {
+      "id": "610527-Holofoil",
+      "productId": 610527,
+      "name": "Drayton",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610527_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610527/pokemon-sv-prismatic-evolutions-drayton",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 13.77
+        },
+        {
+          "date": "2026-09-23",
+          "price": 13.67
+        },
+        {
+          "date": "2026-09-24",
+          "price": 13.61
+        },
+        {
+          "date": "2026-09-25",
+          "price": 13.57
+        }
+      ]
+    },
+    {
+      "id": "610654-Holofoil",
+      "productId": 610654,
+      "name": "Suicune (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610654_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610654/pokemon-sv-prismatic-evolutions-suicune-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 12.96
+        },
+        {
+          "date": "2026-09-23",
+          "price": 12.61
+        },
+        {
+          "date": "2026-09-24",
+          "price": 12.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 12.55
+        }
+      ]
+    },
+    {
+      "id": "610525-Holofoil",
+      "productId": 610525,
+      "name": "Amarys - 170/131",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610525_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610525/pokemon-sv-prismatic-evolutions-amarys-170-131",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 12.94
+        },
+        {
+          "date": "2026-09-23",
+          "price": 12.48
+        },
+        {
+          "date": "2026-09-24",
+          "price": 12.4
+        },
+        {
+          "date": "2026-09-25",
+          "price": 12.4
+        }
+      ]
+    },
+    {
+      "id": "610666-Holofoil",
+      "productId": 610666,
+      "name": "Flutter Mane (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610666_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610666/pokemon-sv-prismatic-evolutions-flutter-mane-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 12.55
+        },
+        {
+          "date": "2026-09-23",
+          "price": 12.55
+        },
+        {
+          "date": "2026-09-24",
+          "price": 12.53
+        },
+        {
+          "date": "2026-09-25",
+          "price": 12.53
+        }
+      ]
+    },
+    {
+      "id": "610667-Holofoil",
+      "productId": 610667,
+      "name": "Munkidori (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610667_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610667/pokemon-sv-prismatic-evolutions-munkidori-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 11.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 11.59
+        },
+        {
+          "date": "2026-09-24",
+          "price": 11.57
+        },
+        {
+          "date": "2026-09-25",
+          "price": 11.44
+        }
+      ]
+    },
+    {
+      "id": "610643-Holofoil",
+      "productId": 610643,
+      "name": "Whimsicott (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610643_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610643/pokemon-sv-prismatic-evolutions-whimsicott-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 11.42
+        },
+        {
+          "date": "2026-09-23",
+          "price": 11.42
+        },
+        {
+          "date": "2026-09-24",
+          "price": 11.42
+        },
+        {
+          "date": "2026-09-25",
+          "price": 11.41
+        }
+      ]
+    },
+    {
+      "id": "610682-Holofoil",
+      "productId": 610682,
+      "name": "Houndoom (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610682_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610682/pokemon-sv-prismatic-evolutions-houndoom-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 11.42
+        },
+        {
+          "date": "2026-09-23",
+          "price": 11.32
+        },
+        {
+          "date": "2026-09-24",
+          "price": 11.44
+        },
+        {
+          "date": "2026-09-25",
+          "price": 11.41
+        }
+      ]
+    },
+    {
+      "id": "610638-Holofoil",
+      "productId": 610638,
+      "name": "Exeggutor (Master Ball Pattern)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610638_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/610638/pokemon-sv-prismatic-evolutions-exeggutor-master-ball-pattern",
+      "game": "pokemon",
+      "set": "Prismatic Evolutions",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 10.53
+        },
+        {
+          "date": "2026-09-23",
+          "price": 10.53
+        },
+        {
+          "date": "2026-09-24",
+          "price": 10.53
+        },
+        {
+          "date": "2026-09-25",
+          "price": 10.56
+        }
+      ]
+    },
+    {
+      "id": "591814-Foil",
+      "productId": 591814,
+      "name": "Llanowar Elves (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591814_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591814/magic-foundations-llanowar-elves-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-13",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-14",
+          "price": 862.17
+        },
+        {
+          "date": "2026-09-15",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-16",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-17",
+          "price": 879.36
+        },
+        {
+          "date": "2026-09-18",
+          "price": 887.32
+        },
+        {
+          "date": "2026-09-19",
+          "price": 887.32
+        },
+        {
+          "date": "2026-09-20",
+          "price": 887.32
+        },
+        {
+          "date": "2026-09-21",
+          "price": 887.32
+        },
+        {
+          "date": "2026-09-22",
+          "price": 900.61
+        },
+        {
+          "date": "2026-09-23",
+          "price": 900.61
+        },
+        {
+          "date": "2026-09-24",
+          "price": 915.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 915.64
+        }
+      ]
+    },
+    {
+      "id": "591766-Foil",
+      "productId": 591766,
+      "name": "Doubling Season (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591766_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591766/magic-foundations-doubling-season-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 656.43
+        },
+        {
+          "date": "2026-09-13",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-14",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-15",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-16",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-17",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-18",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-19",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-20",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-21",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-22",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-23",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-24",
+          "price": 663.52
+        },
+        {
+          "date": "2026-09-25",
+          "price": 663.52
+        }
+      ]
+    },
+    {
+      "id": "591844-Foil",
+      "productId": 591844,
+      "name": "Twinflame Tyrant (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591844_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591844/magic-foundations-twinflame-tyrant-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-13",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-14",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-15",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-16",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-17",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-18",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-19",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-20",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-21",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-22",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-23",
+          "price": 472.72
+        },
+        {
+          "date": "2026-09-24",
+          "price": 476.94
+        },
+        {
+          "date": "2026-09-25",
+          "price": 476.94
+        }
+      ]
+    },
+    {
+      "id": "591788-Foil",
+      "productId": 591788,
+      "name": "Bloodthirsty Conqueror (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591788_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591788/magic-foundations-bloodthirsty-conqueror-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 402.11
+        },
+        {
+          "date": "2026-09-23",
+          "price": 402.11
+        },
+        {
+          "date": "2026-09-24",
+          "price": 402.11
+        },
+        {
+          "date": "2026-09-25",
+          "price": 402.11
+        }
+      ]
+    },
+    {
+      "id": "589360-Foil",
+      "productId": 589360,
+      "name": "Progenitus (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589360_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589360/magic-foundations-progenitus-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 387.96
+        },
+        {
+          "date": "2026-09-23",
+          "price": 384.05
+        },
+        {
+          "date": "2026-09-24",
+          "price": 384.05
+        },
+        {
+          "date": "2026-09-25",
+          "price": 384.05
+        }
+      ]
+    },
+    {
+      "id": "591688-Foil",
+      "productId": 591688,
+      "name": "Muldrotha, the Gravetide (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591688_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591688/magic-foundations-muldrotha-the-gravetide-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 267.61
+        },
+        {
+          "date": "2026-09-23",
+          "price": 267.61
+        },
+        {
+          "date": "2026-09-24",
+          "price": 267.61
+        },
+        {
+          "date": "2026-09-25",
+          "price": 267.61
+        }
+      ]
+    },
+    {
+      "id": "590857-Foil",
+      "productId": 590857,
+      "name": "Doubling Season (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/590857_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/590857/magic-foundations-doubling-season-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 266.77
+        },
+        {
+          "date": "2026-09-23",
+          "price": 266.77
+        },
+        {
+          "date": "2026-09-24",
+          "price": 266.77
+        },
+        {
+          "date": "2026-09-25",
+          "price": 266.77
+        }
+      ]
+    },
+    {
+      "id": "589449-Foil",
+      "productId": 589449,
+      "name": "Llanowar Elves (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589449_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589449/magic-foundations-llanowar-elves-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 225.15
+        },
+        {
+          "date": "2026-09-23",
+          "price": 225.15
+        },
+        {
+          "date": "2026-09-24",
+          "price": 225.15
+        },
+        {
+          "date": "2026-09-25",
+          "price": 225.15
+        }
+      ]
+    },
+    {
+      "id": "591198-Foil",
+      "productId": 591198,
+      "name": "Sire of Seven Deaths (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591198_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591198/magic-foundations-sire-of-seven-deaths-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 220.03
+        },
+        {
+          "date": "2026-09-23",
+          "price": 220.03
+        },
+        {
+          "date": "2026-09-24",
+          "price": 220.03
+        },
+        {
+          "date": "2026-09-25",
+          "price": 220.03
+        }
+      ]
+    },
+    {
+      "id": "589425-Foil",
+      "productId": 589425,
+      "name": "Bloodthirsty Conqueror (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589425_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589425/magic-foundations-bloodthirsty-conqueror-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 181.92
+        },
+        {
+          "date": "2026-09-23",
+          "price": 181.92
+        },
+        {
+          "date": "2026-09-24",
+          "price": 181.92
+        },
+        {
+          "date": "2026-09-25",
+          "price": 181.92
+        }
+      ]
+    },
+    {
+      "id": "591726-Foil",
+      "productId": 591726,
+      "name": "Herald of Eternal Dawn (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591726_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591726/magic-foundations-herald-of-eternal-dawn-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 173.49
+        },
+        {
+          "date": "2026-09-23",
+          "price": 173.49
+        },
+        {
+          "date": "2026-09-24",
+          "price": 173.49
+        },
+        {
+          "date": "2026-09-25",
+          "price": 173.49
+        }
+      ]
+    },
+    {
+      "id": "589427-Foil",
+      "productId": 589427,
+      "name": "Bloodthirsty Conqueror (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589427_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589427/magic-foundations-bloodthirsty-conqueror-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 171.57
+        },
+        {
+          "date": "2026-09-23",
+          "price": 171.57
+        },
+        {
+          "date": "2026-09-24",
+          "price": 171.57
+        },
+        {
+          "date": "2026-09-25",
+          "price": 171.57
+        }
+      ]
+    },
+    {
+      "id": "590833-Foil",
+      "productId": 590833,
+      "name": "High Fae Trickster (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/590833_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/590833/magic-foundations-high-fae-trickster-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 168.01
+        },
+        {
+          "date": "2026-09-23",
+          "price": 171.43
+        },
+        {
+          "date": "2026-09-24",
+          "price": 171.43
+        },
+        {
+          "date": "2026-09-25",
+          "price": 171.43
+        }
+      ]
+    },
+    {
+      "id": "590825-Foil",
+      "productId": 590825,
+      "name": "Giada, Font of Hope (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/590825_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/590825/magic-foundations-giada-font-of-hope-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 146.64
+        },
+        {
+          "date": "2026-09-23",
+          "price": 146.64
+        },
+        {
+          "date": "2026-09-24",
+          "price": 146.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 146.64
+        }
+      ]
+    },
+    {
+      "id": "589446-Foil",
+      "productId": 589446,
+      "name": "Twinflame Tyrant (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589446_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589446/magic-foundations-twinflame-tyrant-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 141.55
+        },
+        {
+          "date": "2026-09-23",
+          "price": 141.55
+        },
+        {
+          "date": "2026-09-24",
+          "price": 141.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 141.55
+        }
+      ]
+    },
+    {
+      "id": "589448-Foil",
+      "productId": 589448,
+      "name": "Twinflame Tyrant (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589448_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589448/magic-foundations-twinflame-tyrant-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 132.89
+        },
+        {
+          "date": "2026-09-23",
+          "price": 132.89
+        },
+        {
+          "date": "2026-09-24",
+          "price": 132.89
+        },
+        {
+          "date": "2026-09-25",
+          "price": 132.89
+        }
+      ]
+    },
+    {
+      "id": "591782-Foil",
+      "productId": 591782,
+      "name": "Rise of the Dark Realms (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591782_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591782/magic-foundations-rise-of-the-dark-realms-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 116.79
+        },
+        {
+          "date": "2026-09-23",
+          "price": 116.79
+        },
+        {
+          "date": "2026-09-24",
+          "price": 116.79
+        },
+        {
+          "date": "2026-09-25",
+          "price": 116.79
+        }
+      ]
+    },
+    {
+      "id": "589454-Foil",
+      "productId": 589454,
+      "name": "Niv-Mizzet, Visionary (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589454_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589454/magic-foundations-niv-mizzet-visionary-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 111.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 112.78
+        },
+        {
+          "date": "2026-09-24",
+          "price": 113.61
+        },
+        {
+          "date": "2026-09-25",
+          "price": 113.61
+        }
+      ]
+    },
+    {
+      "id": "591769-Foil",
+      "productId": 591769,
+      "name": "Lathril, Blade of the Elves (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591769_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591769/magic-foundations-lathril-blade-of-the-elves-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 107.37
+        },
+        {
+          "date": "2026-09-23",
+          "price": 107.37
+        },
+        {
+          "date": "2026-09-24",
+          "price": 107.37
+        },
+        {
+          "date": "2026-09-25",
+          "price": 107.37
+        }
+      ]
+    },
+    {
+      "id": "591745-Foil",
+      "productId": 591745,
+      "name": "Think Twice (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591745_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591745/magic-foundations-think-twice-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 98.75
+        },
+        {
+          "date": "2026-09-23",
+          "price": 98.75
+        },
+        {
+          "date": "2026-09-24",
+          "price": 98.75
+        },
+        {
+          "date": "2026-09-25",
+          "price": 98.75
+        }
+      ]
+    },
+    {
+      "id": "588213-Foil",
+      "productId": 588213,
+      "name": "Liliana, Dreadhorde General (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/588213_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/588213/magic-foundations-liliana-dreadhorde-general-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 90.96
+        },
+        {
+          "date": "2026-09-23",
+          "price": 90.96
+        },
+        {
+          "date": "2026-09-24",
+          "price": 90.96
+        },
+        {
+          "date": "2026-09-25",
+          "price": 90.96
+        }
+      ]
+    },
+    {
+      "id": "591695-Foil",
+      "productId": 591695,
+      "name": "Day of Judgment (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591695_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591695/magic-foundations-day-of-judgment-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 79.07
+        },
+        {
+          "date": "2026-09-23",
+          "price": 79.07
+        },
+        {
+          "date": "2026-09-24",
+          "price": 79.07
+        },
+        {
+          "date": "2026-09-25",
+          "price": 79.03
+        }
+      ]
+    },
+    {
+      "id": "589451-Foil",
+      "productId": 589451,
+      "name": "Mossborn Hydra (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589451_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589451/magic-foundations-mossborn-hydra-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 79.06
+        },
+        {
+          "date": "2026-09-23",
+          "price": 79.06
+        },
+        {
+          "date": "2026-09-24",
+          "price": 79.06
+        },
+        {
+          "date": "2026-09-25",
+          "price": 79.94
+        }
+      ]
+    },
+    {
+      "id": "590877-Foil",
+      "productId": 590877,
+      "name": "Scrawling Crawler (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/590877_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/590877/magic-foundations-scrawling-crawler-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 72.12
+        },
+        {
+          "date": "2026-09-23",
+          "price": 72.12
+        },
+        {
+          "date": "2026-09-24",
+          "price": 72.12
+        },
+        {
+          "date": "2026-09-25",
+          "price": 72.12
+        }
+      ]
+    },
+    {
+      "id": "589434-Foil",
+      "productId": 589434,
+      "name": "Tinybones, Bauble Burglar (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589434_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589434/magic-foundations-tinybones-bauble-burglar-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 70
+        },
+        {
+          "date": "2026-09-23",
+          "price": 70
+        },
+        {
+          "date": "2026-09-24",
+          "price": 70
+        },
+        {
+          "date": "2026-09-25",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": "557924-Foil",
+      "productId": 557924,
+      "name": "Omniscience (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/557924_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/557924/magic-foundations-omniscience-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 68.43
+        },
+        {
+          "date": "2026-09-23",
+          "price": 68.43
+        },
+        {
+          "date": "2026-09-24",
+          "price": 68.43
+        },
+        {
+          "date": "2026-09-25",
+          "price": 68.43
+        }
+      ]
+    },
+    {
+      "id": "589775-Foil",
+      "productId": 589775,
+      "name": "Muldrotha, the Gravetide (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589775_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589775/magic-foundations-muldrotha-the-gravetide-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 64.5
+        },
+        {
+          "date": "2026-09-23",
+          "price": 64.5
+        },
+        {
+          "date": "2026-09-24",
+          "price": 64.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 64.7
+        }
+      ]
+    },
+    {
+      "id": "591786-Foil",
+      "productId": 591786,
+      "name": "Kaito, Cunning Infiltrator (Showcase) (Fracture Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591786_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591786/magic-foundations-kaito-cunning-infiltrator-showcase-fracture-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 63.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 63.71
+        },
+        {
+          "date": "2026-09-24",
+          "price": 63.71
+        },
+        {
+          "date": "2026-09-25",
+          "price": 63.76
+        }
+      ]
+    },
+    {
+      "id": "591197-Foil",
+      "productId": 591197,
+      "name": "Sire of Seven Deaths (Borderless)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591197_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591197/magic-foundations-sire-of-seven-deaths-borderless",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 62.62
+        },
+        {
+          "date": "2026-09-23",
+          "price": 62.62
+        },
+        {
+          "date": "2026-09-24",
+          "price": 62.62
+        },
+        {
+          "date": "2026-09-25",
+          "price": 62.62
+        }
+      ]
+    },
+    {
+      "id": "591183-Foil",
+      "productId": 591183,
+      "name": "Ghalta, Primal Hunger (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591183_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591183/magic-foundations-ghalta-primal-hunger-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 56.9
+        },
+        {
+          "date": "2026-09-23",
+          "price": 57.38
+        },
+        {
+          "date": "2026-09-24",
+          "price": 57.63
+        },
+        {
+          "date": "2026-09-25",
+          "price": 58.06
+        }
+      ]
+    },
+    {
+      "id": "589424-Foil",
+      "productId": 589424,
+      "name": "Bloodthirsty Conqueror (Borderless)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589424_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589424/magic-foundations-bloodthirsty-conqueror-borderless",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 56.47
+        },
+        {
+          "date": "2026-09-23",
+          "price": 56.53
+        },
+        {
+          "date": "2026-09-24",
+          "price": 56.53
+        },
+        {
+          "date": "2026-09-25",
+          "price": 56.81
+        }
+      ]
+    },
+    {
+      "id": "589445-Foil",
+      "productId": 589445,
+      "name": "Twinflame Tyrant (Borderless)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589445_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589445/magic-foundations-twinflame-tyrant-borderless",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 55.84
+        },
+        {
+          "date": "2026-09-23",
+          "price": 55.93
+        },
+        {
+          "date": "2026-09-24",
+          "price": 55.9
+        },
+        {
+          "date": "2026-09-25",
+          "price": 55.95
+        }
+      ]
+    },
+    {
+      "id": "557930-Foil",
+      "productId": 557930,
+      "name": "Nine-Lives Familiar (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/557930_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/557930/magic-foundations-nine-lives-familiar-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 51.95
+        },
+        {
+          "date": "2026-09-23",
+          "price": 51.95
+        },
+        {
+          "date": "2026-09-24",
+          "price": 51.95
+        },
+        {
+          "date": "2026-09-25",
+          "price": 51.95
+        }
+      ]
+    },
+    {
+      "id": "591810-Foil",
+      "productId": 591810,
+      "name": "Loot, Exuberant Explorer (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591810_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591810/magic-foundations-loot-exuberant-explorer-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 51.83
+        },
+        {
+          "date": "2026-09-23",
+          "price": 51.83
+        },
+        {
+          "date": "2026-09-24",
+          "price": 51.83
+        },
+        {
+          "date": "2026-09-25",
+          "price": 51.83
+        }
+      ]
+    },
+    {
+      "id": "589766-Foil",
+      "productId": 589766,
+      "name": "Etali, Primal Storm (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589766_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589766/magic-foundations-etali-primal-storm-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 51.09
+        },
+        {
+          "date": "2026-09-23",
+          "price": 51.09
+        },
+        {
+          "date": "2026-09-24",
+          "price": 51.09
+        },
+        {
+          "date": "2026-09-25",
+          "price": 51.19
+        }
+      ]
+    },
+    {
+      "id": "591201-Foil",
+      "productId": 591201,
+      "name": "Banner of Kinship (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591201_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591201/magic-foundations-banner-of-kinship-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 50.02
+        },
+        {
+          "date": "2026-09-23",
+          "price": 50.02
+        },
+        {
+          "date": "2026-09-24",
+          "price": 50.02
+        },
+        {
+          "date": "2026-09-25",
+          "price": 50.02
+        }
+      ]
+    },
+    {
+      "id": "589426-Foil",
+      "productId": 589426,
+      "name": "Bloodthirsty Conqueror (Extended Art)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589426_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589426/magic-foundations-bloodthirsty-conqueror-extended-art",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 49.64
+        },
+        {
+          "date": "2026-09-23",
+          "price": 49.64
+        },
+        {
+          "date": "2026-09-24",
+          "price": 49.64
+        },
+        {
+          "date": "2026-09-25",
+          "price": 49.64
+        }
+      ]
+    },
+    {
+      "id": "589745-Foil",
+      "productId": 589745,
+      "name": "Exemplar of Light (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589745_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589745/magic-foundations-exemplar-of-light-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 49.26
+        },
+        {
+          "date": "2026-09-23",
+          "price": 49.26
+        },
+        {
+          "date": "2026-09-24",
+          "price": 50.2
+        },
+        {
+          "date": "2026-09-25",
+          "price": 50.2
+        }
+      ]
+    },
+    {
+      "id": "591784-Foil",
+      "productId": 591784,
+      "name": "Blasphemous Edict (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591784_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591784/magic-foundations-blasphemous-edict-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 44.4
+        },
+        {
+          "date": "2026-09-23",
+          "price": 44.4
+        },
+        {
+          "date": "2026-09-24",
+          "price": 44.78
+        },
+        {
+          "date": "2026-09-25",
+          "price": 44.78
+        }
+      ]
+    },
+    {
+      "id": "589409-Foil",
+      "productId": 589409,
+      "name": "Herald of Eternal Dawn (Showcase)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589409_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589409/magic-foundations-herald-of-eternal-dawn-showcase",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 43.37
+        },
+        {
+          "date": "2026-09-23",
+          "price": 43.68
+        },
+        {
+          "date": "2026-09-24",
+          "price": 43.68
+        },
+        {
+          "date": "2026-09-25",
+          "price": 43.68
+        }
+      ]
+    },
+    {
+      "id": "589440-Foil",
+      "productId": 589440,
+      "name": "Chandra, Flameshaper (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589440_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589440/magic-foundations-chandra-flameshaper-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 42.08
+        },
+        {
+          "date": "2026-09-23",
+          "price": 42.08
+        },
+        {
+          "date": "2026-09-24",
+          "price": 42.61
+        },
+        {
+          "date": "2026-09-25",
+          "price": 42.61
+        }
+      ]
+    },
+    {
+      "id": "591205-Foil",
+      "productId": 591205,
+      "name": "Leyline Axe (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591205_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591205/magic-foundations-leyline-axe-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 41.45
+        },
+        {
+          "date": "2026-09-23",
+          "price": 41.45
+        },
+        {
+          "date": "2026-09-24",
+          "price": 41.45
+        },
+        {
+          "date": "2026-09-25",
+          "price": 41.45
+        }
+      ]
+    },
+    {
+      "id": "591336-Foil",
+      "productId": 591336,
+      "name": "Koma, World-Eater (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591336_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591336/magic-foundations-koma-world-eater-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 40.62
+        },
+        {
+          "date": "2026-09-23",
+          "price": 40.62
+        },
+        {
+          "date": "2026-09-24",
+          "price": 40.97
+        },
+        {
+          "date": "2026-09-25",
+          "price": 40.99
+        }
+      ]
+    },
+    {
+      "id": "591800-Foil",
+      "productId": 591800,
+      "name": "Genesis Wave (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591800_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591800/magic-foundations-genesis-wave-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 39.84
+        },
+        {
+          "date": "2026-09-23",
+          "price": 39.84
+        },
+        {
+          "date": "2026-09-24",
+          "price": 39.84
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.84
+        }
+      ]
+    },
+    {
+      "id": "589447-Foil",
+      "productId": 589447,
+      "name": "Twinflame Tyrant (Extended Art)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589447_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589447/magic-foundations-twinflame-tyrant-extended-art",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 39.01
+        },
+        {
+          "date": "2026-09-23",
+          "price": 39.01
+        },
+        {
+          "date": "2026-09-24",
+          "price": 39.01
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.01
+        }
+      ]
+    },
+    {
+      "id": "591807-Foil",
+      "productId": 591807,
+      "name": "Zimone, Paradox Sculptor (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591807_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591807/magic-foundations-zimone-paradox-sculptor-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 38.58
+        },
+        {
+          "date": "2026-09-23",
+          "price": 38.58
+        },
+        {
+          "date": "2026-09-24",
+          "price": 38.58
+        },
+        {
+          "date": "2026-09-25",
+          "price": 38.58
+        }
+      ]
+    },
+    {
+      "id": "589328-Normal",
+      "productId": 589328,
+      "name": "Bloodthirsty Conqueror",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589328_200w.jpg",
+      "variant": "Normal",
+      "url": "https://www.tcgplayer.com/product/589328/magic-foundations-bloodthirsty-conqueror",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 38.26
+        },
+        {
+          "date": "2026-09-23",
+          "price": 38.76
+        },
+        {
+          "date": "2026-09-24",
+          "price": 38.04
+        },
+        {
+          "date": "2026-09-25",
+          "price": 37.46
+        }
+      ]
+    },
+    {
+      "id": "591780-Foil",
+      "productId": 591780,
+      "name": "Rise of the Dark Realms (Borderless)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591780_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/591780/magic-foundations-rise-of-the-dark-realms-borderless",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 37.73
+        },
+        {
+          "date": "2026-09-23",
+          "price": 37.73
+        },
+        {
+          "date": "2026-09-24",
+          "price": 37.73
+        },
+        {
+          "date": "2026-09-25",
+          "price": 37.73
+        }
+      ]
+    },
+    {
+      "id": "589430-Foil",
+      "productId": 589430,
+      "name": "Phyrexian Arena (Borderless) (Mana Foil)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/589430_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/589430/magic-foundations-phyrexian-arena-borderless-mana-foil",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 37.13
+        },
+        {
+          "date": "2026-09-23",
+          "price": 37.13
+        },
+        {
+          "date": "2026-09-24",
+          "price": 37.15
+        },
+        {
+          "date": "2026-09-25",
+          "price": 37.15
+        }
+      ]
+    },
+    {
+      "id": "590858-Foil",
+      "productId": 590858,
+      "name": "Doubling Season",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/590858_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/590858/magic-foundations-doubling-season",
+      "game": "magic",
+      "set": "Foundations",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 36.95
+        },
+        {
+          "date": "2026-09-23",
+          "price": 36.55
+        },
+        {
+          "date": "2026-09-24",
+          "price": 36.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 36.38
+        }
+      ]
+    },
+    {
+      "id": "592725-1st Edition",
+      "productId": 592725,
+      "name": "Blue-Eyes White Dragon (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592725_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592725/yugioh-quarter-century-bonanza-blue-eyes-white-dragon-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 181.23
+        },
+        {
+          "date": "2026-09-13",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-14",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-15",
+          "price": 185.02
+        },
+        {
+          "date": "2026-09-16",
+          "price": 186.64
+        },
+        {
+          "date": "2026-09-17",
+          "price": 186.64
+        },
+        {
+          "date": "2026-09-18",
+          "price": 186.64
+        },
+        {
+          "date": "2026-09-19",
+          "price": 188.93
+        },
+        {
+          "date": "2026-09-20",
+          "price": 188.93
+        },
+        {
+          "date": "2026-09-21",
+          "price": 188.93
+        },
+        {
+          "date": "2026-09-22",
+          "price": 188.93
+        },
+        {
+          "date": "2026-09-23",
+          "price": 191.74
+        },
+        {
+          "date": "2026-09-24",
+          "price": 191.74
+        },
+        {
+          "date": "2026-09-25",
+          "price": 193.5
+        }
+      ]
+    },
+    {
+      "id": "592813-1st Edition",
+      "productId": 592813,
+      "name": "Dark Magician Girl (Quarter Century Secret Rare) (A)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592813_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592813/yugioh-quarter-century-bonanza-dark-magician-girl-quarter-century-secret-rare-a",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-13",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-14",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-15",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-16",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-17",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-18",
+          "price": 135.97
+        },
+        {
+          "date": "2026-09-19",
+          "price": 135.97
+        },
+        {
+          "date": "2026-09-20",
+          "price": 135.97
+        },
+        {
+          "date": "2026-09-21",
+          "price": 135.97
+        },
+        {
+          "date": "2026-09-22",
+          "price": 137.13
+        },
+        {
+          "date": "2026-09-23",
+          "price": 137.13
+        },
+        {
+          "date": "2026-09-24",
+          "price": 137.13
+        },
+        {
+          "date": "2026-09-25",
+          "price": 137.13
+        }
+      ]
+    },
+    {
+      "id": "592831-1st Edition",
+      "productId": 592831,
+      "name": "Black Luster Soldier - Envoy of the Beginning (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592831_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592831/yugioh-quarter-century-bonanza-black-luster-soldier-envoy-of-the-beginning-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-13",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-14",
+          "price": 135.01
+        },
+        {
+          "date": "2026-09-15",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-16",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-17",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-18",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-19",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-20",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-21",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-22",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-23",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-24",
+          "price": 134.69
+        },
+        {
+          "date": "2026-09-25",
+          "price": 134.69
+        }
+      ]
+    },
+    {
+      "id": "592759-1st Edition",
+      "productId": 592759,
+      "name": "Upstart Goblin (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592759_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592759/yugioh-quarter-century-bonanza-upstart-goblin-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 105.87
+        },
+        {
+          "date": "2026-09-23",
+          "price": 105.87
+        },
+        {
+          "date": "2026-09-24",
+          "price": 105.87
+        },
+        {
+          "date": "2026-09-25",
+          "price": 105.87
+        }
+      ]
+    },
+    {
+      "id": "592751-1st Edition",
+      "productId": 592751,
+      "name": "Heavy Storm (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592751_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592751/yugioh-quarter-century-bonanza-heavy-storm-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 101.2
+        },
+        {
+          "date": "2026-09-23",
+          "price": 101.2
+        },
+        {
+          "date": "2026-09-24",
+          "price": 101.2
+        },
+        {
+          "date": "2026-09-25",
+          "price": 101.2
+        }
+      ]
+    },
+    {
+      "id": "592765-1st Edition",
+      "productId": 592765,
+      "name": "Jinzo (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592765_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592765/yugioh-quarter-century-bonanza-jinzo-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 95.09
+        },
+        {
+          "date": "2026-09-23",
+          "price": 95.09
+        },
+        {
+          "date": "2026-09-24",
+          "price": 95.09
+        },
+        {
+          "date": "2026-09-25",
+          "price": 95.09
+        }
+      ]
+    },
+    {
+      "id": "592955-1st Edition",
+      "productId": 592955,
+      "name": "Caius the Shadow Monarch (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592955_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592955/yugioh-quarter-century-bonanza-caius-the-shadow-monarch-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 91.9
+        },
+        {
+          "date": "2026-09-23",
+          "price": 91.9
+        },
+        {
+          "date": "2026-09-24",
+          "price": 91.9
+        },
+        {
+          "date": "2026-09-25",
+          "price": 91.9
+        }
+      ]
+    },
+    {
+      "id": "592739-1st Edition",
+      "productId": 592739,
+      "name": "Summoned Skull (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592739_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592739/yugioh-quarter-century-bonanza-summoned-skull-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 91.55
+        },
+        {
+          "date": "2026-09-23",
+          "price": 91.55
+        },
+        {
+          "date": "2026-09-24",
+          "price": 91.55
+        },
+        {
+          "date": "2026-09-25",
+          "price": 91.55
+        }
+      ]
+    },
+    {
+      "id": "593157-1st Edition",
+      "productId": 593157,
+      "name": "Sky Striker Mobilize - Linkage! (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593157_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593157/yugioh-quarter-century-bonanza-sky-striker-mobilize-linkage-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 91.01
+        },
+        {
+          "date": "2026-09-23",
+          "price": 91.01
+        },
+        {
+          "date": "2026-09-24",
+          "price": 91.01
+        },
+        {
+          "date": "2026-09-25",
+          "price": 91.01
+        }
+      ]
+    },
+    {
+      "id": "592753-1st Edition",
+      "productId": 592753,
+      "name": "Mirror Force (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592753_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592753/yugioh-quarter-century-bonanza-mirror-force-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 90.67
+        },
+        {
+          "date": "2026-09-23",
+          "price": 90.67
+        },
+        {
+          "date": "2026-09-24",
+          "price": 90.67
+        },
+        {
+          "date": "2026-09-25",
+          "price": 90.67
+        }
+      ]
+    },
+    {
+      "id": "592727-1st Edition",
+      "productId": 592727,
+      "name": "Dark Magician (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592727_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592727/yugioh-quarter-century-bonanza-dark-magician-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 88.04
+        },
+        {
+          "date": "2026-09-23",
+          "price": 88.04
+        },
+        {
+          "date": "2026-09-24",
+          "price": 88.04
+        },
+        {
+          "date": "2026-09-25",
+          "price": 88.04
+        }
+      ]
+    },
+    {
+      "id": "592921-1st Edition",
+      "productId": 592921,
+      "name": "Elemental HERO Stratos (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592921_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592921/yugioh-quarter-century-bonanza-elemental-hero-stratos-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 84.06
+        },
+        {
+          "date": "2026-09-23",
+          "price": 84.06
+        },
+        {
+          "date": "2026-09-24",
+          "price": 84.06
+        },
+        {
+          "date": "2026-09-25",
+          "price": 84.06
+        }
+      ]
+    },
+    {
+      "id": "592923-1st Edition",
+      "productId": 592923,
+      "name": "Blue-Eyes Ultimate Dragon (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592923_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592923/yugioh-quarter-century-bonanza-blue-eyes-ultimate-dragon-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 81.88
+        },
+        {
+          "date": "2026-09-23",
+          "price": 81.88
+        },
+        {
+          "date": "2026-09-24",
+          "price": 81.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 81.88
+        }
+      ]
+    },
+    {
+      "id": "593849-1st Edition",
+      "productId": 593849,
+      "name": "Dark Magician Girl (Quarter Century Secret Rare) (B)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593849_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593849/yugioh-quarter-century-bonanza-dark-magician-girl-quarter-century-secret-rare-b",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 73.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 73.71
+        },
+        {
+          "date": "2026-09-24",
+          "price": 73.71
+        },
+        {
+          "date": "2026-09-25",
+          "price": 73.71
+        }
+      ]
+    },
+    {
+      "id": "593850-1st Edition",
+      "productId": 593850,
+      "name": "Dark Magician Girl (Quarter Century Secret Rare) (C)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593850_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593850/yugioh-quarter-century-bonanza-dark-magician-girl-quarter-century-secret-rare-c",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 66.08
+        },
+        {
+          "date": "2026-09-23",
+          "price": 66.75
+        },
+        {
+          "date": "2026-09-24",
+          "price": 66.75
+        },
+        {
+          "date": "2026-09-25",
+          "price": 66.75
+        }
+      ]
+    },
+    {
+      "id": "592819-1st Edition",
+      "productId": 592819,
+      "name": "Dark Paladin (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592819_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592819/yugioh-quarter-century-bonanza-dark-paladin-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 65.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 65.71
+        },
+        {
+          "date": "2026-09-24",
+          "price": 65.71
+        },
+        {
+          "date": "2026-09-25",
+          "price": 65.97
+        }
+      ]
+    },
+    {
+      "id": "593147-1st Edition",
+      "productId": 593147,
+      "name": "Sky Striker Mobilize - Engage! (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593147_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593147/yugioh-quarter-century-bonanza-sky-striker-mobilize-engage-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 64.35
+        },
+        {
+          "date": "2026-09-23",
+          "price": 64.35
+        },
+        {
+          "date": "2026-09-24",
+          "price": 64.35
+        },
+        {
+          "date": "2026-09-25",
+          "price": 64.35
+        }
+      ]
+    },
+    {
+      "id": "593071-1st Edition",
+      "productId": 593071,
+      "name": "Elemental HERO Absolute Zero (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593071_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593071/yugioh-quarter-century-bonanza-elemental-hero-absolute-zero-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 63.93
+        },
+        {
+          "date": "2026-09-23",
+          "price": 63.93
+        },
+        {
+          "date": "2026-09-24",
+          "price": 64.13
+        },
+        {
+          "date": "2026-09-25",
+          "price": 64.13
+        }
+      ]
+    },
+    {
+      "id": "593151-1st Edition",
+      "productId": 593151,
+      "name": "Soul Servant (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593151_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/593151/yugioh-quarter-century-bonanza-soul-servant-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 63.58
+        },
+        {
+          "date": "2026-09-23",
+          "price": 63.4
+        },
+        {
+          "date": "2026-09-24",
+          "price": 63.65
+        },
+        {
+          "date": "2026-09-25",
+          "price": 63.65
+        }
+      ]
+    },
+    {
+      "id": "592835-1st Edition",
+      "productId": 592835,
+      "name": "Dark Magician of Chaos (Quarter Century Secret Rare)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/592835_200w.jpg",
+      "variant": "1st Edition",
+      "url": "https://www.tcgplayer.com/product/592835/yugioh-quarter-century-bonanza-dark-magician-of-chaos-quarter-century-secret-rare",
+      "game": "yugioh",
+      "set": "Quarter Century Bonanza",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 63.29
+        },
+        {
+          "date": "2026-09-23",
+          "price": 63.29
+        },
+        {
+          "date": "2026-09-24",
+          "price": 63.29
+        },
+        {
+          "date": "2026-09-25",
+          "price": 63.29
+        }
+      ]
+    },
+    {
+      "id": "454666-Foil",
+      "productId": 454666,
+      "name": "Shanks (Parallel) (Manga) (Alternate Art)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454666_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454666/one-piece-card-game-romance-dawn-shanks-parallel-manga-alternate-art",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-13",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-14",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-15",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-16",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-17",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-18",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-19",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-20",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-21",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-22",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-23",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-24",
+          "price": 3999.47
+        },
+        {
+          "date": "2026-09-25",
+          "price": 3998.74
+        }
+      ]
+    },
+    {
+      "id": "453506-Foil",
+      "productId": 453506,
+      "name": "Monkey.D.Luffy (003) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453506_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453506/one-piece-card-game-romance-dawn-monkeydluffy-003-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-13",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-14",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-15",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-16",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-17",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-18",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-19",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-20",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-21",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-22",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-23",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-24",
+          "price": 999.52
+        },
+        {
+          "date": "2026-09-25",
+          "price": 999.52
+        }
+      ]
+    },
+    {
+      "id": "454513-Foil",
+      "productId": 454513,
+      "name": "Roronoa Zoro (001) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454513_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454513/one-piece-card-game-romance-dawn-roronoa-zoro-001-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-13",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-14",
+          "price": 614.28
+        },
+        {
+          "date": "2026-09-15",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-16",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-17",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-18",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-19",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-20",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-21",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-22",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-23",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-24",
+          "price": 616.85
+        },
+        {
+          "date": "2026-09-25",
+          "price": 619.64
+        }
+      ]
+    },
+    {
+      "id": "454514-Foil",
+      "productId": 454514,
+      "name": "Trafalgar Law (002) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454514_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454514/one-piece-card-game-romance-dawn-trafalgar-law-002-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 440.86
+        },
+        {
+          "date": "2026-09-23",
+          "price": 440.86
+        },
+        {
+          "date": "2026-09-24",
+          "price": 440.86
+        },
+        {
+          "date": "2026-09-25",
+          "price": 440.86
+        }
+      ]
+    },
+    {
+      "id": "454536-Foil",
+      "productId": 454536,
+      "name": "Nami (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454536_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454536/one-piece-card-game-romance-dawn-nami-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 424.69
+        },
+        {
+          "date": "2026-09-23",
+          "price": 424.69
+        },
+        {
+          "date": "2026-09-24",
+          "price": 424.69
+        },
+        {
+          "date": "2026-09-25",
+          "price": 424.69
+        }
+      ]
+    },
+    {
+      "id": "453511-Foil",
+      "productId": 453511,
+      "name": "Roronoa Zoro (025) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453511_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453511/one-piece-card-game-romance-dawn-roronoa-zoro-025-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 270.23
+        },
+        {
+          "date": "2026-09-23",
+          "price": 273.39
+        },
+        {
+          "date": "2026-09-24",
+          "price": 276.24
+        },
+        {
+          "date": "2026-09-25",
+          "price": 276.24
+        }
+      ]
+    },
+    {
+      "id": "454586-Foil",
+      "productId": 454586,
+      "name": "Donquixote Doflamingo (060) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454586_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454586/one-piece-card-game-romance-dawn-donquixote-doflamingo-060-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 262
+        },
+        {
+          "date": "2026-09-23",
+          "price": 262
+        },
+        {
+          "date": "2026-09-24",
+          "price": 262
+        },
+        {
+          "date": "2026-09-25",
+          "price": 261.47
+        }
+      ]
+    },
+    {
+      "id": "453509-Foil",
+      "productId": 453509,
+      "name": "Monkey.D.Luffy (024) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453509_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453509/one-piece-card-game-romance-dawn-monkeydluffy-024-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 233.32
+        },
+        {
+          "date": "2026-09-23",
+          "price": 233.32
+        },
+        {
+          "date": "2026-09-24",
+          "price": 233.32
+        },
+        {
+          "date": "2026-09-25",
+          "price": 233.32
+        }
+      ]
+    },
+    {
+      "id": "454609-Foil",
+      "productId": 454609,
+      "name": "Boa Hancock (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454609_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454609/one-piece-card-game-romance-dawn-boa-hancock-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 153.36
+        },
+        {
+          "date": "2026-09-23",
+          "price": 152.51
+        },
+        {
+          "date": "2026-09-24",
+          "price": 150.71
+        },
+        {
+          "date": "2026-09-25",
+          "price": 150.71
+        }
+      ]
+    },
+    {
+      "id": "454669-Foil",
+      "productId": 454669,
+      "name": "Yamato (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454669_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454669/one-piece-card-game-romance-dawn-yamato-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 138.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 138.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 138.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 136.19
+        }
+      ]
+    },
+    {
+      "id": "454589-Foil",
+      "productId": 454589,
+      "name": "Crocodile (062) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454589_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454589/one-piece-card-game-romance-dawn-crocodile-062-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 134.55
+        },
+        {
+          "date": "2026-09-23",
+          "price": 134.55
+        },
+        {
+          "date": "2026-09-24",
+          "price": 134.39
+        },
+        {
+          "date": "2026-09-25",
+          "price": 134.39
+        }
+      ]
+    },
+    {
+      "id": "454587-Foil",
+      "productId": 454587,
+      "name": "Kaido (061) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454587_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454587/one-piece-card-game-romance-dawn-kaido-061-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 131.9
+        },
+        {
+          "date": "2026-09-23",
+          "price": 131.9
+        },
+        {
+          "date": "2026-09-24",
+          "price": 130.66
+        },
+        {
+          "date": "2026-09-25",
+          "price": 130.66
+        }
+      ]
+    },
+    {
+      "id": "454530-Foil",
+      "productId": 454530,
+      "name": "Sanji (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454530_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454530/one-piece-card-game-romance-dawn-sanji-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 88.39
+        },
+        {
+          "date": "2026-09-23",
+          "price": 88.39
+        },
+        {
+          "date": "2026-09-24",
+          "price": 88.39
+        },
+        {
+          "date": "2026-09-25",
+          "price": 88.39
+        }
+      ]
+    },
+    {
+      "id": "454665-Foil",
+      "productId": 454665,
+      "name": "Shanks (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454665_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454665/one-piece-card-game-romance-dawn-shanks-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 87.01
+        },
+        {
+          "date": "2026-09-23",
+          "price": 88.51
+        },
+        {
+          "date": "2026-09-24",
+          "price": 88.51
+        },
+        {
+          "date": "2026-09-25",
+          "price": 88.51
+        }
+      ]
+    },
+    {
+      "id": "454623-Foil",
+      "productId": 454623,
+      "name": "King (091) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454623_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454623/one-piece-card-game-romance-dawn-king-091-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 81.78
+        },
+        {
+          "date": "2026-09-23",
+          "price": 81.78
+        },
+        {
+          "date": "2026-09-24",
+          "price": 81.78
+        },
+        {
+          "date": "2026-09-25",
+          "price": 81.78
+        }
+      ]
+    },
+    {
+      "id": "454552-Foil",
+      "productId": 454552,
+      "name": "Kouzuki Oden (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454552_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454552/one-piece-card-game-romance-dawn-kouzuki-oden-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 79.56
+        },
+        {
+          "date": "2026-09-23",
+          "price": 79.56
+        },
+        {
+          "date": "2026-09-24",
+          "price": 79.56
+        },
+        {
+          "date": "2026-09-25",
+          "price": 79.56
+        }
+      ]
+    },
+    {
+      "id": "453515-Foil",
+      "productId": 453515,
+      "name": "Trafalgar Law (047) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453515_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453515/one-piece-card-game-romance-dawn-trafalgar-law-047-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 60.09
+        },
+        {
+          "date": "2026-09-23",
+          "price": 59.98
+        },
+        {
+          "date": "2026-09-24",
+          "price": 59.98
+        },
+        {
+          "date": "2026-09-25",
+          "price": 59.98
+        }
+      ]
+    },
+    {
+      "id": "454599-Foil",
+      "productId": 454599,
+      "name": "Dracule Mihawk (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454599_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454599/one-piece-card-game-romance-dawn-dracule-mihawk-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 49.88
+        },
+        {
+          "date": "2026-09-23",
+          "price": 49.88
+        },
+        {
+          "date": "2026-09-24",
+          "price": 49.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 49.88
+        }
+      ]
+    },
+    {
+      "id": "453520-Foil",
+      "productId": 453520,
+      "name": "Perona (Box Topper)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/453520_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/453520/one-piece-card-game-romance-dawn-perona-box-topper",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 40.73
+        },
+        {
+          "date": "2026-09-23",
+          "price": 39.79
+        },
+        {
+          "date": "2026-09-24",
+          "price": 37.75
+        },
+        {
+          "date": "2026-09-25",
+          "price": 37.75
+        }
+      ]
+    },
+    {
+      "id": "454627-Foil",
+      "productId": 454627,
+      "name": "Kaido (094) (Parallel)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454627_200w.jpg",
+      "variant": "Foil",
+      "url": "https://www.tcgplayer.com/product/454627/one-piece-card-game-romance-dawn-kaido-094-parallel",
+      "game": "onepiece",
+      "set": "Romance Dawn",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 27.64
+        },
+        {
+          "date": "2026-09-23",
+          "price": 27.86
+        },
+        {
+          "date": "2026-09-24",
+          "price": 27.86
+        },
+        {
+          "date": "2026-09-25",
+          "price": 27.86
+        }
+      ]
+    },
+    {
+      "id": "510153-Holofoil",
+      "productId": 510153,
+      "name": "Elsa - Spirit of Winter (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510153_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510153/lorcana-tcg-the-first-chapter-elsa-spirit-of-winter-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-13",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-14",
+          "price": 947.21
+        },
+        {
+          "date": "2026-09-15",
+          "price": 949.08
+        },
+        {
+          "date": "2026-09-16",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-17",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-18",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-19",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-20",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-21",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-22",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-23",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-24",
+          "price": 950.96
+        },
+        {
+          "date": "2026-09-25",
+          "price": 953.61
+        }
+      ]
+    },
+    {
+      "id": "510154-Holofoil",
+      "productId": 510154,
+      "name": "Mickey Mouse - Wayward Sorcerer (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510154_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510154/lorcana-tcg-the-first-chapter-mickey-mouse-wayward-sorcerer-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 328.75
+        },
+        {
+          "date": "2026-09-13",
+          "price": 328.75
+        },
+        {
+          "date": "2026-09-14",
+          "price": 327.31
+        },
+        {
+          "date": "2026-09-15",
+          "price": 327.31
+        },
+        {
+          "date": "2026-09-16",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-17",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-18",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-19",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-20",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-21",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-22",
+          "price": 320
+        },
+        {
+          "date": "2026-09-23",
+          "price": 320
+        },
+        {
+          "date": "2026-09-24",
+          "price": 327.4
+        },
+        {
+          "date": "2026-09-25",
+          "price": 327.4
+        }
+      ]
+    },
+    {
+      "id": "510152-Holofoil",
+      "productId": 510152,
+      "name": "Stitch - Carefree Surfer (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510152_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510152/lorcana-tcg-the-first-chapter-stitch-carefree-surfer-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-13",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-14",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-15",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-16",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-17",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-18",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-19",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-20",
+          "price": 260.92
+        },
+        {
+          "date": "2026-09-21",
+          "price": 259.48
+        },
+        {
+          "date": "2026-09-22",
+          "price": 259.48
+        },
+        {
+          "date": "2026-09-23",
+          "price": 259.48
+        },
+        {
+          "date": "2026-09-24",
+          "price": 259.48
+        },
+        {
+          "date": "2026-09-25",
+          "price": 259.32
+        }
+      ]
+    },
+    {
+      "id": "510162-Holofoil",
+      "productId": 510162,
+      "name": "Simba - Returned King (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510162_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510162/lorcana-tcg-the-first-chapter-simba-returned-king-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 234.34
+        },
+        {
+          "date": "2026-09-23",
+          "price": 234.34
+        },
+        {
+          "date": "2026-09-24",
+          "price": 234.34
+        },
+        {
+          "date": "2026-09-25",
+          "price": 233.85
+        }
+      ]
+    },
+    {
+      "id": "510161-Holofoil",
+      "productId": 510161,
+      "name": "Belle - Strange but Special (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510161_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510161/lorcana-tcg-the-first-chapter-belle-strange-but-special-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 209.8
+        },
+        {
+          "date": "2026-09-23",
+          "price": 209.8
+        },
+        {
+          "date": "2026-09-24",
+          "price": 209.8
+        },
+        {
+          "date": "2026-09-25",
+          "price": 206.48
+        }
+      ]
+    },
+    {
+      "id": "510163-Holofoil",
+      "productId": 510163,
+      "name": "Tinker Bell - Giant Fairy (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510163_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510163/lorcana-tcg-the-first-chapter-tinker-bell-giant-fairy-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 194.88
+        },
+        {
+          "date": "2026-09-23",
+          "price": 194.88
+        },
+        {
+          "date": "2026-09-24",
+          "price": 194.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 194.88
+        }
+      ]
+    },
+    {
+      "id": "510159-Holofoil",
+      "productId": 510159,
+      "name": "Aurora - Dreaming Guardian (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510159_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510159/lorcana-tcg-the-first-chapter-aurora-dreaming-guardian-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 194.87
+        },
+        {
+          "date": "2026-09-23",
+          "price": 194.87
+        },
+        {
+          "date": "2026-09-24",
+          "price": 194.87
+        },
+        {
+          "date": "2026-09-25",
+          "price": 194.87
+        }
+      ]
+    },
+    {
+      "id": "510156-Holofoil",
+      "productId": 510156,
+      "name": "Mickey Mouse - Artful Rogue (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510156_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510156/lorcana-tcg-the-first-chapter-mickey-mouse-artful-rogue-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 183.22
+        },
+        {
+          "date": "2026-09-23",
+          "price": 183.22
+        },
+        {
+          "date": "2026-09-24",
+          "price": 183.22
+        },
+        {
+          "date": "2026-09-25",
+          "price": 185.71
+        }
+      ]
+    },
+    {
+      "id": "510155-Holofoil",
+      "productId": 510155,
+      "name": "Genie - On the Job (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510155_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510155/lorcana-tcg-the-first-chapter-genie-on-the-job-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 148.74
+        },
+        {
+          "date": "2026-09-23",
+          "price": 148.74
+        },
+        {
+          "date": "2026-09-24",
+          "price": 148.74
+        },
+        {
+          "date": "2026-09-25",
+          "price": 150.31
+        }
+      ]
+    },
+    {
+      "id": "510158-Holofoil",
+      "productId": 510158,
+      "name": "Maui - Hero to All (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510158_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510158/lorcana-tcg-the-first-chapter-maui-hero-to-all-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 144.7
+        },
+        {
+          "date": "2026-09-23",
+          "price": 144.7
+        },
+        {
+          "date": "2026-09-24",
+          "price": 144.7
+        },
+        {
+          "date": "2026-09-25",
+          "price": 144.7
+        }
+      ]
+    },
+    {
+      "id": "510157-Holofoil",
+      "productId": 510157,
+      "name": "Aladdin - Heroic Outlaw (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510157_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510157/lorcana-tcg-the-first-chapter-aladdin-heroic-outlaw-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 135.2
+        },
+        {
+          "date": "2026-09-23",
+          "price": 135.2
+        },
+        {
+          "date": "2026-09-24",
+          "price": 135.2
+        },
+        {
+          "date": "2026-09-25",
+          "price": 133.41
+        }
+      ]
+    },
+    {
+      "id": "510148-Holofoil",
+      "productId": 510148,
+      "name": "Hades - King of Olympus (Enchanted)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510148_200w.jpg",
+      "variant": "Holofoil",
+      "url": "https://www.tcgplayer.com/product/510148/lorcana-tcg-the-first-chapter-hades-king-of-olympus-enchanted",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 126.71
+        },
+        {
+          "date": "2026-09-23",
+          "price": 126.71
+        },
+        {
+          "date": "2026-09-24",
+          "price": 126.51
+        },
+        {
+          "date": "2026-09-25",
+          "price": 126.51
+        }
+      ]
+    },
+    {
+      "id": "508785-Cold Foil",
+      "productId": 508785,
+      "name": "Mickey Mouse - Brave Little Tailor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/508785_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/508785/lorcana-tcg-the-first-chapter-mickey-mouse-brave-little-tailor",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 84.52
+        },
+        {
+          "date": "2026-09-23",
+          "price": 84.52
+        },
+        {
+          "date": "2026-09-24",
+          "price": 84.5
+        },
+        {
+          "date": "2026-09-25",
+          "price": 84.5
+        }
+      ]
+    },
+    {
+      "id": "507512-Cold Foil",
+      "productId": 507512,
+      "name": "Elsa - Spirit of Winter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/507512_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/507512/lorcana-tcg-the-first-chapter-elsa-spirit-of-winter",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 58.61
+        },
+        {
+          "date": "2026-09-23",
+          "price": 58.61
+        },
+        {
+          "date": "2026-09-24",
+          "price": 58.61
+        },
+        {
+          "date": "2026-09-25",
+          "price": 59.29
+        }
+      ]
+    },
+    {
+      "id": "502009-Cold Foil",
+      "productId": 502009,
+      "name": "Stitch - Carefree Surfer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/502009_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/502009/lorcana-tcg-the-first-chapter-stitch-carefree-surfer",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 49.49
+        },
+        {
+          "date": "2026-09-23",
+          "price": 49.49
+        },
+        {
+          "date": "2026-09-24",
+          "price": 49.49
+        },
+        {
+          "date": "2026-09-25",
+          "price": 49.49
+        }
+      ]
+    },
+    {
+      "id": "492706-Cold Foil",
+      "productId": 492706,
+      "name": "Maleficent - Monstrous Dragon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492706_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/492706/lorcana-tcg-the-first-chapter-maleficent-monstrous-dragon",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 46.19
+        },
+        {
+          "date": "2026-09-23",
+          "price": 46.19
+        },
+        {
+          "date": "2026-09-24",
+          "price": 46.19
+        },
+        {
+          "date": "2026-09-25",
+          "price": 46.19
+        }
+      ]
+    },
+    {
+      "id": "506836-Cold Foil",
+      "productId": 506836,
+      "name": "Rapunzel - Gifted with Healing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/506836_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/506836/lorcana-tcg-the-first-chapter-rapunzel-gifted-with-healing",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 41.91
+        },
+        {
+          "date": "2026-09-23",
+          "price": 42.17
+        },
+        {
+          "date": "2026-09-24",
+          "price": 42.48
+        },
+        {
+          "date": "2026-09-25",
+          "price": 42.48
+        }
+      ]
+    },
+    {
+      "id": "508816-Cold Foil",
+      "productId": 508816,
+      "name": "Belle - Strange but Special",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/508816_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/508816/lorcana-tcg-the-first-chapter-belle-strange-but-special",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 36.78
+        },
+        {
+          "date": "2026-09-23",
+          "price": 36.78
+        },
+        {
+          "date": "2026-09-24",
+          "price": 36.97
+        },
+        {
+          "date": "2026-09-25",
+          "price": 36.97
+        }
+      ]
+    },
+    {
+      "id": "508848-Cold Foil",
+      "productId": 508848,
+      "name": "Hades - Infernal Schemer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/508848_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/508848/lorcana-tcg-the-first-chapter-hades-infernal-schemer",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 26.22
+        },
+        {
+          "date": "2026-09-23",
+          "price": 26.22
+        },
+        {
+          "date": "2026-09-24",
+          "price": 26.22
+        },
+        {
+          "date": "2026-09-25",
+          "price": 26.22
+        }
+      ]
+    },
+    {
+      "id": "507476-Cold Foil",
+      "productId": 507476,
+      "name": "John Silver - Alien Pirate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/507476_200w.jpg",
+      "variant": "Cold Foil",
+      "url": "https://www.tcgplayer.com/product/507476/lorcana-tcg-the-first-chapter-john-silver-alien-pirate",
+      "game": "lorcana",
+      "set": "The First Chapter",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 22.88
+        },
+        {
+          "date": "2026-09-23",
+          "price": 22.88
+        },
+        {
+          "date": "2026-09-24",
+          "price": 22.88
+        },
+        {
+          "date": "2026-09-25",
+          "price": 22.88
+        }
+      ]
+    },
+    {
+      "id": "225211-1st Edition Cold Foil",
+      "productId": 225211,
+      "name": "Fyendal's Spring Tunic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225211_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225211/flesh-and-blood-tcg-welcome-to-rathe-fyendals-spring-tunic",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 3999.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 3999.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 3999.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 3999.99
+        }
+      ]
+    },
+    {
+      "id": "225110-1st Edition Cold Foil",
+      "productId": 225110,
+      "name": "Mask of Momentum",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225110_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225110/flesh-and-blood-tcg-welcome-to-rathe-mask-of-momentum",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-15",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-17",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-19",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-20",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-21",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-22",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-23",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-24",
+          "price": 1097
+        },
+        {
+          "date": "2026-09-25",
+          "price": 999
+        }
+      ]
+    },
+    {
+      "id": "225065-1st Edition Rainbow Foil",
+      "productId": 225065,
+      "name": "Crippling Crush",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225065_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225065/flesh-and-blood-tcg-welcome-to-rathe-crippling-crush",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-13",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-14",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-15",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-16",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-17",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-18",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-19",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-20",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-21",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-22",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-23",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-24",
+          "price": 303.49
+        },
+        {
+          "date": "2026-09-25",
+          "price": 303.49
+        }
+      ]
+    },
+    {
+      "id": "225118-1st Edition Rainbow Foil",
+      "productId": 225118,
+      "name": "Lord of Wind",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225118_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225118/flesh-and-blood-tcg-welcome-to-rathe-lord-of-wind",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-12",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-13",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-14",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-15",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-16",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-17",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-18",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-19",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-20",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-21",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-22",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-23",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-24",
+          "price": 274.5
+        },
+        {
+          "date": "2026-09-25",
+          "price": 274.5
+        }
+      ]
+    },
+    {
+      "id": "225222-1st Edition Cold Foil",
+      "productId": 225222,
+      "name": "Snapdragon Scalers",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225222_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225222/flesh-and-blood-tcg-welcome-to-rathe-snapdragon-scalers",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 249
+        },
+        {
+          "date": "2026-09-23",
+          "price": 249
+        },
+        {
+          "date": "2026-09-24",
+          "price": 249
+        },
+        {
+          "date": "2026-09-25",
+          "price": 249
+        }
+      ]
+    },
+    {
+      "id": "225013-Unlimited Edition Rainbow Foil",
+      "productId": 225013,
+      "name": "Heart of Fyendal",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225013_200w.jpg",
+      "variant": "Unlimited Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225013/flesh-and-blood-tcg-welcome-to-rathe-heart-of-fyendal",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 191.22
+        },
+        {
+          "date": "2026-09-23",
+          "price": 191.22
+        },
+        {
+          "date": "2026-09-24",
+          "price": 191.22
+        },
+        {
+          "date": "2026-09-25",
+          "price": 191.22
+        }
+      ]
+    },
+    {
+      "id": "225122-1st Edition Rainbow Foil",
+      "productId": 225122,
+      "name": "Ancestral Empowerment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225122_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225122/flesh-and-blood-tcg-welcome-to-rathe-ancestral-empowerment",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 169.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 169.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 169.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 169.99
+        }
+      ]
+    },
+    {
+      "id": "225219-1st Edition Cold Foil",
+      "productId": 225219,
+      "name": "Heartened Cross Strap",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225219_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225219/flesh-and-blood-tcg-welcome-to-rathe-heartened-cross-strap",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 129.37
+        },
+        {
+          "date": "2026-09-23",
+          "price": 129.37
+        },
+        {
+          "date": "2026-09-24",
+          "price": 129.37
+        },
+        {
+          "date": "2026-09-25",
+          "price": 129.37
+        }
+      ]
+    },
+    {
+      "id": "225164-1st Edition Rainbow Foil",
+      "productId": 225164,
+      "name": "Singing Steelblade",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225164_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225164/flesh-and-blood-tcg-welcome-to-rathe-singing-steelblade",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 125
+        },
+        {
+          "date": "2026-09-23",
+          "price": 125
+        },
+        {
+          "date": "2026-09-24",
+          "price": 125
+        },
+        {
+          "date": "2026-09-25",
+          "price": 125
+        }
+      ]
+    },
+    {
+      "id": "225215-1st Edition Cold Foil",
+      "productId": 225215,
+      "name": "Hope Merchant's Hood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225215_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225215/flesh-and-blood-tcg-welcome-to-rathe-hope-merchants-hood",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 119.95
+        },
+        {
+          "date": "2026-09-23",
+          "price": 119.95
+        },
+        {
+          "date": "2026-09-24",
+          "price": 119.95
+        },
+        {
+          "date": "2026-09-25",
+          "price": 119.95
+        }
+      ]
+    },
+    {
+      "id": "225024-1st Edition Rainbow Foil",
+      "productId": 225024,
+      "name": "Sand Sketched Plan",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225024_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225024/flesh-and-blood-tcg-welcome-to-rathe-sand-sketched-plan",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 88.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 88.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 88.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 88.99
+        }
+      ]
+    },
+    {
+      "id": "225113-1st Edition Cold Foil",
+      "productId": 225113,
+      "name": "Breaking Scales",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225113_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225113/flesh-and-blood-tcg-welcome-to-rathe-breaking-scales",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 84.57
+        },
+        {
+          "date": "2026-09-23",
+          "price": 84.57
+        },
+        {
+          "date": "2026-09-24",
+          "price": 84.57
+        },
+        {
+          "date": "2026-09-25",
+          "price": 84.57
+        }
+      ]
+    },
+    {
+      "id": "225070-1st Edition Rainbow Foil",
+      "productId": 225070,
+      "name": "Show Time!",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225070_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225070/flesh-and-blood-tcg-welcome-to-rathe-show-time",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 80.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 80.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 80.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 80.99
+        }
+      ]
+    },
+    {
+      "id": "225025-1st Edition Rainbow Foil",
+      "productId": 225025,
+      "name": "Bone Head Barrier",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225025_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225025/flesh-and-blood-tcg-welcome-to-rathe-bone-head-barrier",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 69.69
+        },
+        {
+          "date": "2026-09-23",
+          "price": 69.69
+        },
+        {
+          "date": "2026-09-24",
+          "price": 69.69
+        },
+        {
+          "date": "2026-09-25",
+          "price": 69.69
+        }
+      ]
+    },
+    {
+      "id": "225229-Unlimited Edition Rainbow Foil",
+      "productId": 225229,
+      "name": "Enlightened Strike",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225229_200w.jpg",
+      "variant": "Unlimited Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225229/flesh-and-blood-tcg-welcome-to-rathe-enlightened-strike",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 65.17
+        },
+        {
+          "date": "2026-09-23",
+          "price": 65.17
+        },
+        {
+          "date": "2026-09-24",
+          "price": 65.17
+        },
+        {
+          "date": "2026-09-25",
+          "price": 65.17
+        }
+      ]
+    },
+    {
+      "id": "225069-1st Edition Rainbow Foil",
+      "productId": 225069,
+      "name": "Forged for War",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225069_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225069/flesh-and-blood-tcg-welcome-to-rathe-forged-for-war",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 65
+        },
+        {
+          "date": "2026-09-23",
+          "price": 65
+        },
+        {
+          "date": "2026-09-24",
+          "price": 65
+        },
+        {
+          "date": "2026-09-25",
+          "price": 65
+        }
+      ]
+    },
+    {
+      "id": "225245-1st Edition Rainbow Foil",
+      "productId": 225245,
+      "name": "Snatch (Red)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225245_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225245/flesh-and-blood-tcg-welcome-to-rathe-snatch-red",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 54.89
+        },
+        {
+          "date": "2026-09-23",
+          "price": 54.89
+        },
+        {
+          "date": "2026-09-24",
+          "price": 54.89
+        },
+        {
+          "date": "2026-09-25",
+          "price": 54.89
+        }
+      ]
+    },
+    {
+      "id": "225299-1st Edition Rainbow Foil",
+      "productId": 225299,
+      "name": "Razor Reflex (Red)",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225299_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225299/flesh-and-blood-tcg-welcome-to-rathe-razor-reflex-red",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 47.56
+        },
+        {
+          "date": "2026-09-23",
+          "price": 47.56
+        },
+        {
+          "date": "2026-09-24",
+          "price": 47.56
+        },
+        {
+          "date": "2026-09-25",
+          "price": 47.56
+        }
+      ]
+    },
+    {
+      "id": "225163-1st Edition Rainbow Foil",
+      "productId": 225163,
+      "name": "Rout",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225163_200w.jpg",
+      "variant": "1st Edition Rainbow Foil",
+      "url": "https://www.tcgplayer.com/product/225163/flesh-and-blood-tcg-welcome-to-rathe-rout",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 44.89
+        },
+        {
+          "date": "2026-09-23",
+          "price": 44.89
+        },
+        {
+          "date": "2026-09-24",
+          "price": 44.89
+        },
+        {
+          "date": "2026-09-25",
+          "price": 44.89
+        }
+      ]
+    },
+    {
+      "id": "225227-1st Edition Cold Foil",
+      "productId": 225227,
+      "name": "Ironrot Legs",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/225227_200w.jpg",
+      "variant": "1st Edition Cold Foil",
+      "url": "https://www.tcgplayer.com/product/225227/flesh-and-blood-tcg-welcome-to-rathe-ironrot-legs",
+      "game": "fab",
+      "set": "Welcome to Rathe",
+      "history": [
+        {
+          "date": "2026-09-22",
+          "price": 44.09
+        },
+        {
+          "date": "2026-09-23",
+          "price": 44.09
+        },
+        {
+          "date": "2026-09-24",
+          "price": 44.09
+        },
+        {
+          "date": "2026-09-25",
+          "price": 44.09
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "game": "pokemon",
+      "publisher": "Wargamer",
+      "url": "https://www.wargamer.com/mainrss.xml",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": false,
+      "failures": []
+    },
+    {
+      "game": "magic",
+      "publisher": "MTGGoldfish",
+      "url": "https://www.mtggoldfish.com/feed",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": false,
+      "failures": []
+    },
+    {
+      "game": "yugioh",
+      "publisher": "YGOrganization",
+      "url": "https://ygorganization.com/feed/",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": false,
+      "failures": []
+    },
+    {
+      "game": "onepiece",
+      "publisher": "OnePiece.gg",
+      "url": "https://onepiece.gg/feed/",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": false,
+      "failures": []
+    },
+    {
+      "game": "lorcana",
+      "publisher": "Lorcana.gg",
+      "url": "https://lorcana.gg/feed/",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": true,
+      "failures": [
+        {
+          "publisher": "Lorcana Player",
+          "url": "https://www.lorcanaplayer.com/feed/",
+          "error": "Source returned (403)"
+        }
+      ]
+    },
+    {
+      "game": "fab",
+      "publisher": "FaBTCG.gg",
+      "url": "https://fabtcg.gg/feed/",
+      "checkedAt": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "ok": true,
+      "usedFallback": false,
+      "failures": []
+    }
+  ],
+  "pricesCheckedAt": "2026-09-26T12:59:46.242Z",
+  "pricesOk": true,
+  "priceSourceUpdatedAt": "2026-09-25T20:05:42.000Z",
+  "generatedAt": "2026-09-26T12:59:46.242Z"
+}

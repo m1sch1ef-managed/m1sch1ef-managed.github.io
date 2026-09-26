@@ -1,0 +1,230 @@
+:root {
+  color-scheme: dark;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #071a2c;
+  color: #f6f3ea;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: radial-gradient(circle at 50% 0, #183b48, #071a2c 68%);
+  display: flex;
+  justify-content: center;
+}
+main {
+  width: min(100%, 980px);
+  padding: clamp(12px, 3vw, 28px);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+header,
+.hud,
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+header h1 {
+  margin: 0;
+  font-size: clamp(26px, 5vw, 44px);
+  letter-spacing: -0.05em;
+}
+header p {
+  margin: 4px 0 0;
+  color: #b9c9c8;
+  font-size: 14px;
+}
+.hud {
+  font: 800 12px/1.2 monospace;
+  letter-spacing: 0.1em;
+  color: #d8ff3e;
+}
+.hud strong {
+  color: #f6f3ea;
+  font-size: 18px;
+}
+button {
+  cursor: pointer;
+  border: 1px solid #9ab1ae;
+  background: #18323e;
+  color: #f6f3ea;
+  border-radius: 8px;
+  min-height: 44px;
+  padding: 8px 15px;
+  font-weight: 800;
+}
+button:hover,
+button:focus-visible {
+  border-color: #d8ff3e;
+  color: #d8ff3e;
+}
+button.primary {
+  background: #d8ff3e;
+  color: #071a2c;
+  border-color: #d8ff3e;
+}
+button.primary:hover,
+button.primary:focus-visible {
+  background: #f2ffa4;
+}
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  align-self: center;
+  width: min(100%, var(--canvas-width), calc(66dvh * var(--canvas-ratio)));
+  min-height: 0;
+  background: #0b202c;
+  border: 1px solid #42625e;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 18px 50px #0005;
+}
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  touch-action: none;
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 12px;
+  background: #071a2cdd;
+  padding: 20px;
+}
+.overlay[hidden] {
+  display: none;
+}
+.overlay h2 {
+  font-size: clamp(30px, 6vw, 58px);
+  margin: 0;
+  letter-spacing: -0.06em;
+}
+.overlay p {
+  max-width: 450px;
+  line-height: 1.5;
+  margin: 0 0 8px;
+  color: #d2dfda;
+}
+.hint {
+  color: #9cbab8;
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
+}
+kbd {
+  border: 1px solid #62817b;
+  border-radius: 4px;
+  padding: 2px 5px;
+  color: #e0f7e7;
+}
+.mini-leaderboard {
+  border: 1px solid #42625e;
+  border-radius: 16px;
+  background: #0b202c;
+  padding: 20px;
+}
+.mini-board-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.mini-board-top small {
+  font: 800 11px monospace;
+  letter-spacing: 0.13em;
+  color: #72e4ba;
+}
+.mini-board-top h2 {
+  margin: 4px 0;
+  font-size: 24px;
+}
+.mini-board-tabs {
+  display: flex;
+  gap: 6px;
+}
+.mini-board-tabs button {
+  min-height: 44px;
+  font-size: 12px;
+}
+.mini-board-tabs [aria-pressed='true'] {
+  background: #d8ff3e;
+  color: #071a2c;
+  border-color: #d8ff3e;
+}
+.mini-board-status,
+.mini-board-own {
+  font-size: 13px;
+  color: #b9c9c8;
+}
+.mini-board-list {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px 16px;
+}
+.mini-board-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  border-bottom: 1px solid #315461;
+  padding: 8px 0;
+  font-size: 14px;
+}
+.mini-board-list li.is-you {
+  color: #d8ff3e;
+  font-weight: 800;
+}
+.mini-board-retry[hidden] {
+  display: none;
+}
+@media (max-width: 600px) {
+  main {
+    gap: 10px;
+  }
+  .hud {
+    font-size: 11px;
+  }
+  .hud strong {
+    font-size: 15px;
+  }
+  .stage {
+    width: min(100%, var(--canvas-width), calc(58dvh * var(--canvas-ratio)));
+  }
+  .mini-board-list {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 360px) {
+  .overlay {
+    gap: 8px;
+    padding: 10px;
+  }
+  .overlay h2 {
+    font-size: 24px;
+  }
+  .overlay p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 1.25;
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-09-26T12:59:50.749Z",
+  "generatedAt": "2026-09-26T12:59:46.242Z",
+  "status": "ok",
+  "pricesOk": true,
+  "sources": [
+    {
+      "game": "pokemon",
+      "publisher": "Wargamer",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": []
+    },
+    {
+      "game": "magic",
+      "publisher": "MTGGoldfish",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": []
+    },
+    {
+      "game": "yugioh",
+      "publisher": "YGOrganization",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": []
+    },
+    {
+      "game": "onepiece",
+      "publisher": "OnePiece.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": []
+    },
+    {
+      "game": "lorcana",
+      "publisher": "Lorcana.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": true,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": [
+        {
+          "publisher": "Lorcana Player",
+          "url": "https://www.lorcanaplayer.com/feed/",
+          "error": "Source returned (403)"
+        }
+      ]
+    },
+    {
+      "game": "fab",
+      "publisher": "FaBTCG.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-09-26T12:59:46.242Z",
+      "attemptedAt": "2026-09-26T12:59:46.242Z",
+      "failures": []
+    }
+  ]
+}
