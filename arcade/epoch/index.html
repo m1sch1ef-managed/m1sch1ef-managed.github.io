@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#101b24" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%277%27 fill=%27%23101b24%27/%3E%3Cpath d=%27M16 4 28 16 16 28 4 16Z%27 fill=%27%2371dab1%27/%3E%3Cpath d=%27M16 10 22 16 16 22 10 16Z%27 fill=%27%23101b24%27/%3E%3C/svg%3E"
+    />
+    <meta
+      name="description"
+      content="Guide an autonomous civilization from hunter-gatherers to the AI Age. Expand, trade, conquer and build a lasting legacy."
+    />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="canonical" href="https://m1sch1efmanaged.com/games/epoch" />
+    <title>Hearth to Horizon · Civilization simulator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="game-shortcuts" aria-label="Game navigation">
+      <a href="/games" target="_top">← Arcade</a><a href="#map">World map</a
+      ><a href="#guide">Actions &amp; priorities</a>
+    </nav>
+    <header>
+      <a class="brand" href="./"
+        >HEARTH <span class="brand-to">to</span> HORIZON
+        <small>WORLD SIMULATOR</small></a
+      >
+      <div id="clock"></div>
+      <button id="legacyBtn">✧ Legacy <span id="legacyCount">0</span></button
+      ><button id="newBtn">New civilization</button>
+    </header>
+    <main>
+      <section class="world">
+        <div class="world-top">
+          <div>
+            <span class="eyebrow">A WORLD OF YOUR MAKING</span>
+            <h1 id="worldTitle">The first spark.</h1>
+          </div>
+          <div class="speed" id="speeds">
+            <button data-speed="0" aria-label="Pause">Ⅱ</button
+            ><button data-speed="1" class="active">1×</button
+            ><button data-speed="2">2×</button><button data-speed="5">5×</button
+            ><button data-speed="10">10×</button>
+          </div>
+        </div>
+        <div class="map-tools">
+          <button id="mapZoom" aria-pressed="false">Zoom map · 2×</button
+          ><span>Tap to inspect. Zoom in, then swipe to explore.</span>
+        </div>
+        <div class="map-wrap" id="mapViewport">
+          <canvas
+            tabindex="0"
+            aria-describedby="mapTag"
+            id="map"
+            aria-label="World territory map"
+          ></canvas>
+          <div class="map-tag" id="mapTag" role="status">
+            PROCEDURAL WORLD · LIVE SIMULATION
+          </div>
+          <div class="map-legend">
+            <span><i style="background: #66d6b0"></i>You</span
+            ><span><i style="background: #c1aa76"></i>Unclaimed</span
+            ><span><i style="background: #203e50"></i>Ocean</span>
+          </div>
+        </div>
+        <div class="territory">
+          <div><span>WORLD CONTROL</span><b id="control">0%</b></div>
+          <div class="bar"><i id="controlBar"></i></div>
+          <small id="landCount"></small>
+        </div>
+        <div class="bottom-grid">
+          <section class="panel">
+            <div class="panel-heading">
+              <h2>World chronicle</h2>
+              <span class="live">LIVE</span>
+            </div>
+            <div id="events"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-heading">
+              <h2>Civilizations</h2>
+              <span id="modeBadge"></span>
+            </div>
+            <div id="rivals"></div>
+          </section>
+        </div>
+      </section>
+      <aside>
+        <section class="panel civ-panel">
+          <span class="eyebrow">YOUR CIVILIZATION</span>
+          <h2 id="civName">Verdant Kin</h2>
+          <p id="civTrait"></p>
+          <div class="stats">
+            <div>
+              <span>Treasury</span><strong id="coins">0</strong
+              ><small id="income"></small>
+            </div>
+            <div>
+              <span>Population</span><strong id="population">0</strong
+              ><small id="cities"></small>
+            </div>
+          </div>
+        </section>
+        <section class="panel">
+          <div class="panel-heading">
+            <h2 id="ageName">Hunter-gatherers</h2>
+            <span id="ageNum">01 / 09</span>
+          </div>
+          <p id="ageDetail"></p>
+          <div class="bar science"><i id="researchBar"></i></div>
+          <small id="researchText"></small>
+          <div id="ageTrack"></div>
+        </section>
+        <section class="panel">
+          <h2 id="guide" tabindex="-1">Guide their future</h2>
+          <p>They build on their own. Choose what matters most.</p>
+          <div class="priorities" id="priorities">
+            <button data-focus="balanced" class="active">◎ Balanced</button
+            ><button data-focus="expansion">⚑ Expansion</button
+            ><button data-focus="defense">◇ Defense</button
+            ><button data-focus="research">✧ Research</button>
+          </div>
+          <div id="actions"></div>
+          <p class="hint">
+            Settlers choose their own locations. All investments last for this
+            run.
+          </p>
+        </section>
+        <section class="panel" id="decisionPanel">
+          <span class="eyebrow">COUNCIL DECISIONS</span>
+          <div id="decision"></div>
+        </section>
+      </aside>
+    </main>
+    <dialog id="setup">
+      <div class="dialog-head">
+        <span class="eyebrow">EVERY GREAT CIVILIZATION BEGINS SOMEWHERE</span>
+        <h2>A new beginning.</h2>
+        <p>From the first campfire to the age of intelligence.</p>
+      </div>
+      <p id="saveNotice" role="status" hidden></p>
+      <h3>Choose your people</h3>
+      <div id="civChoices" class="choices"></div>
+      <h3>Choose your world</h3>
+      <div class="choices modes">
+        <button data-mode="easy">
+          <b>Easy</b><span>A world to yourself</span
+          ><small>No rivals · peaceful growth</small></button
+        ><button data-mode="medium" class="selected">
+          <b>Medium</b><span>A shared horizon</span
+          ><small>1 rival · diplomacy & war</small></button
+        ><button data-mode="hard">
+          <b>Hard</b><span>A contested world</span
+          ><small>3 rivals · stronger opponents</small>
+        </button>
+      </div>
+      <p class="hint">
+        Claim every land tile to win. Earn legacy sparks from territory and
+        ages, then spend them on permanent benefits. Progress saves in this
+        browser.
+      </p>
+      <button class="primary" id="begin">Begin civilization ↗</button
+      ><button id="cancelSetup" class="quiet">Return to world</button>
+    </dialog>
+    <dialog id="legacy">
+      <span class="eyebrow">WHAT REMAINS THROUGH THE AGES</span>
+      <h2>Your legacy</h2>
+      <p>
+        Spend sparks earned during runs. Benefits apply to every new
+        civilization.
+      </p>
+      <h3 id="sparkBalance"></h3>
+      <div id="upgrades"></div>
+      <button class="primary" id="closeLegacy">Return to world</button>
+    </dialog>
+    <dialog id="ending">
+      <span class="eyebrow">A CHAPTER IN HISTORY</span>
+      <h2 id="endTitle"></h2>
+      <p id="endText"></p>
+      <button class="primary" id="again">Begin another era</button>
+    </dialog>
+    <div id="toast" role="status"></div>
+    <script src="game.js"></script>
+    <script src="agent.js"></script>
+  </body>
+</html>
