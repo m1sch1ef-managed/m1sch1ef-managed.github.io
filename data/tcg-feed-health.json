@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-10-23T23:59:13.440Z",
+  "generatedAt": "2026-10-23T23:50:18.932Z",
+  "editionStale": false,
+  "pricesCheckedAt": "2026-10-23T23:50:18.932Z",
+  "priceSourceUpdatedAt": "2026-10-23T20:06:07.000Z",
+  "pricesStale": false,
+  "status": "degraded",
+  "pricesOk": false,
+  "sources": [
+    {
+      "game": "pokemon",
+      "publisher": "Wargamer",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": []
+    },
+    {
+      "game": "magic",
+      "publisher": "MTGGoldfish",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": []
+    },
+    {
+      "game": "yugioh",
+      "publisher": "YGOrganization",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": []
+    },
+    {
+      "game": "onepiece",
+      "publisher": "OnePiece.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": []
+    },
+    {
+      "game": "lorcana",
+      "publisher": "Lorcana.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": true,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": [
+        {
+          "publisher": "Lorcana Player",
+          "url": "https://www.lorcanaplayer.com/feed/",
+          "error": "Source returned (403)"
+        }
+      ]
+    },
+    {
+      "game": "fab",
+      "publisher": "FaBTCG.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-23T23:50:18.932Z",
+      "attemptedAt": "2026-10-23T23:50:18.932Z",
+      "failures": []
+    }
+  ]
+}

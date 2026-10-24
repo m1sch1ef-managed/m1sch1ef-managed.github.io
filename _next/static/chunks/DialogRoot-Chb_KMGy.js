@@ -1,0 +1,1 @@
+import{o as e}from"./button-BaCjcB3G.js";function t(t){return e(`dialog`,t)}export{t};
