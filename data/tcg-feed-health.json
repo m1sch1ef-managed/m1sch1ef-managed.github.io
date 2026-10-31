@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-31T14:32:19.896Z",
+  "generatedAt": "2026-10-31T14:32:10.936Z",
+  "editionStale": false,
+  "pricesCheckedAt": "2026-10-31T14:32:10.936Z",
+  "priceSourceUpdatedAt": "2026-10-30T20:06:16.000Z",
+  "pricesStale": false,
+  "status": "ok",
+  "pricesOk": false,
+  "priceRefreshOk": true,
+  "priceCoverage": {
+    "sourceDate": "2026-10-30",
+    "total": 180,
+    "market": 176,
+    "listing": 4,
+    "unavailable": 0,
+    "retained": 0
+  },
+  "warnings": [
+    "Market quotes are available for 176 of 180 tracked cards (4 listing-only, 0 unavailable, 0 retained). Listing and recorded values remain separately labeled."
+  ],
+  "sources": [
+    {
+      "game": "pokemon",
+      "publisher": "Wargamer",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": []
+    },
+    {
+      "game": "magic",
+      "publisher": "MTGGoldfish",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": []
+    },
+    {
+      "game": "yugioh",
+      "publisher": "YGOrganization",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": []
+    },
+    {
+      "game": "onepiece",
+      "publisher": "OnePiece.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": []
+    },
+    {
+      "game": "lorcana",
+      "publisher": "Lorcana.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": true,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": [
+        {
+          "publisher": "Lorcana Player",
+          "url": "https://www.lorcanaplayer.com/feed/",
+          "error": "Source returned (403)"
+        }
+      ]
+    },
+    {
+      "game": "fab",
+      "publisher": "FaBTCG.gg",
+      "ok": true,
+      "stale": false,
+      "usedFallback": false,
+      "lastSuccess": "2026-10-31T14:32:10.936Z",
+      "attemptedAt": "2026-10-31T14:32:10.936Z",
+      "failures": []
+    }
+  ]
+}

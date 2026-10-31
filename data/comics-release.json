@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "mode": "public",
+  "series": "the-hollow-hoard",
+  "issues": [
+    {
+      "issue": 1,
+      "slug": "issue-001",
+      "publishAt": "2026-10-29T01:13:02.547Z"
+    },
+    {
+      "issue": 2,
+      "slug": "issue-002",
+      "publishAt": "2026-10-29T01:13:02.547Z"
+    },
+    {
+      "issue": 3,
+      "slug": "issue-003",
+      "publishAt": "2026-10-29T01:13:02.547Z"
+    },
+    {
+      "issue": 4,
+      "slug": "issue-004",
+      "publishAt": "2026-10-29T01:13:02.547Z"
+    }
+  ],
+  "nextReleaseAt": null
+}
