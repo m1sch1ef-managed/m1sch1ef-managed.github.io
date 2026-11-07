@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-11-07T15:40:01.242Z",
+  "status": "ok",
+  "games": [
+    {
+      "game": "pokemon",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 43582,
+      "ok": true
+    },
+    {
+      "game": "onepiece",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 7176,
+      "ok": true
+    },
+    {
+      "game": "lorcana",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 6638,
+      "ok": true
+    },
+    {
+      "game": "fab",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 17277,
+      "ok": true
+    },
+    {
+      "game": "yugioh",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 60216,
+      "ok": true
+    },
+    {
+      "game": "magic",
+      "state": "available",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-07T15:40:01.242Z",
+      "variants": 160641,
+      "ok": true
+    }
+  ]
+}

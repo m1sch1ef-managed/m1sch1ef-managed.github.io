@@ -1,0 +1,1 @@
+@media (max-width:1180px){.site-header{grid-template-columns:1fr auto auto;gap:12px;height:68px}.site-header .desktop-nav,.site-header .status{display:none}.site-header .mobile-menu-trigger{display:flex}.site-header .mobile-all-games{display:inline-flex}}@media (max-width:360px){.site-header .mobile-all-games{white-space:nowrap;padding-inline:8px;font-size:11px}}
